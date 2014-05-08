@@ -1,3 +1,3 @@
-![Meteor](http://i.imgur.com/B9B5uz8.png)
+![Meteor](http://i.imgur.com/zB3nwqs.png)
 
 **List of resources to learning the *amazing* platform for building top-quality web apps with JavaScript! ❤**
