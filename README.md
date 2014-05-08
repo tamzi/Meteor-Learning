@@ -87,6 +87,11 @@ Just open an [issue](https://github.com/ericdouglas/Meteor-Learning/issues?state
 1. [Testing with Meteor](http://testingmeteor.com/)
 1. [Meteor Cookbook](http://meteorgitbook.harp.io/)
 
+## Books in Other Languages
+
+1. [Discover Meteor - Multilingual](https://www.discovermeteor.com/translations)
+2. `pt-br` | [Meteor: Criando aplicações web real-time com JavaScript](http://www.casadocodigo.com.br/products/livro-meteor)
+
 # Courses
 
 1. [Single Page Web Apps with Meteor](https://tutsplus.com/course/building-single-page-web-application-with-meteor-js/)
