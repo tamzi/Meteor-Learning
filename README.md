@@ -130,6 +130,8 @@ Just open an [issue](https://github.com/ericdouglas/Meteor-Learning/issues?state
 1. [Sonic Agile](http://sonicagile.com/) – A free agile Project Management tool that includes a real-time Backlog, Kanban, and Burndown Charts
 1. [TangoEdit](http://www.tangoedit.com/) – Collaborative, cloud-based video editing
 1. [Verso](http://percolatestudio.com/case-studies/verso) – The future of classrooms powered by Meteor & Phonegap
+2. [CodersTV](http://coderstv.com) - Watch programming videos or broadcast your coder skills with the world
+3. [Respondly](https://respond.ly/) - Team Inbox for Email & Twitter
 
 # News
 
