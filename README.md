@@ -1,4 +1,4 @@
-![Meteor](http://i.imgur.com/zB3nwqs.png)
+![Meteor](http://i.imgur.com/n907LJl.png)
 
 **List of resources to learning this *amazing* platform for building top-quality web apps with JavaScript! ❤**
 
@@ -141,6 +141,7 @@ Just open an [issue](https://github.com/ericdouglas/Meteor-Learning/issues?state
 1. [Meteor Google Group](https://groups.google.com/forum/?fromgroups#!forum/meteor-talk)
 1. [Top Resources for learning MeteorJS - Hackpad](https://hackpad.com/Top-Resources-for-learning-MeteorJS-Nrpnr6CHiGs)
 1. [Meteor security resources](http://security-resources.meteor.com/)
+<<<<<<< HEAD
 1. [meteor-phonegap](https://github.com/guaka/meteor-phonegap)
 1. [MongoDB Manual](http://docs.mongodb.org/manual/)
 1. [Meteor Cookbook](https://github.com/awatson1978/meteor-cookbook)
@@ -153,3 +154,5 @@ Just open an [issue](https://github.com/ericdouglas/Meteor-Learning/issues?state
 1. []()
 1. []()
 1. []()
+=======
+>>>>>>> 1bf6240e138d74a80b44e1bdabe0cb3d00a3665e
