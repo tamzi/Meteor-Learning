@@ -46,7 +46,8 @@ Just open an [issue](https://github.com/ericdouglas/Meteor-Learning/issues?state
 1. [How Meteor.js Made Me a God](http://trevorgeise.svbtle.com/meteor-resources-i-use)
 1. [Building an MVP - Crowducate.me](http://www.manuel-schoebel.com/blog/building-an-mvp---crowducateme)
 1. [METEOR #9: INTERNATIONALIZATION. (I18N)](http://journal.gentlenode.com/meteor-9-internationalization-i18n/)
-2. [Introduction to DDP](http://meteorhacks.com/introduction-to-ddp.html)
+1. [Introduction to DDP](http://meteorhacks.com/introduction-to-ddp.html)
+1. `pt-br` | [Tudo sobre Meteor](http://udgwebdev.com/meteor)
 
 # Tutorials
 
@@ -90,7 +91,7 @@ Just open an [issue](https://github.com/ericdouglas/Meteor-Learning/issues?state
 ## Books in Other Languages
 
 1. [Discover Meteor - Multilingual](https://www.discovermeteor.com/translations)
-2. `pt-br` | [Meteor: Criando aplicações web real-time com JavaScript](http://www.casadocodigo.com.br/products/livro-meteor)
+2. `pt-br` | [Meteor: Criando aplicações web real-time com JavaScript](https://casadocodigo.refersion.com/l/d88.3525)
 
 # Courses
 
