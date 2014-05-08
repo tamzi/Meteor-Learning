@@ -1,4 +1,4 @@
-![Meteor](http://i.imgur.com/zB3nwqs.png)
+![Meteor](http://i.imgur.com/n907LJl.png)
 
 **List of resources to learning this *amazing* platform for building top-quality web apps with JavaScript! ❤**
 
