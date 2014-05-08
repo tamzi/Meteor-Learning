@@ -45,6 +45,7 @@ Just open an [issue](https://github.com/ericdouglas/Meteor-Learning/issues?state
 1. [Why Meteor will kill Ruby on Rails](http://differential.io/blog/meteor-killin-rails)
 1. [How Meteor.js Made Me a God](http://trevorgeise.svbtle.com/meteor-resources-i-use)
 1. [Building an MVP - Crowducate.me](http://www.manuel-schoebel.com/blog/building-an-mvp---crowducateme)
+1. [METEOR #9: INTERNATIONALIZATION. (I18N)](http://journal.gentlenode.com/meteor-9-internationalization-i18n/)
 
 # Tutorials
 
