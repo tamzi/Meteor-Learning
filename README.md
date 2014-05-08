@@ -16,8 +16,8 @@
 * [Slides](#slides)
 * [Podcasts](#podcasts)
 * [Learn with Code](#learn-with-code)
-* []()
 * [Built with Meteor](#built-with-meteor)
+* [News](#news)
 * [More Useful Links](#more-useful-links)
 
 > This list was inspired by [this](https://github.com/jmcunningham/AngularJS-Learning) and [this](http://yauh.de/articles/376/best-learning-resources-for-meteorjs)!
@@ -40,6 +40,10 @@ Just open an [issue](https://github.com/ericdouglas/Meteor-Learning/issues?state
 1. [Meteor.js Iron Router Filters, Before and After Hooks](http://www.manuel-schoebel.com/blog/meteorjs-iron-router-filters-before-and-after-hooks)
 1. [Why Is My Meteor App Not Updating Reactively?](http://robertdickert.com/blog/2013/11/14/why-is-my-meteor-app-not-updating-reactively/)
 1. [LIVEBUS: THEBUS VIS WITH METEOR AND D3](http://pasdechocolat.com/2013/07/20/livebus-with-meteor-and-d3/)
+1. [Meteor is F***ing Awesome](https://medium.com/meteor-news/a28ac7d30e2d)
+1. [The Wonderful Duo — Using Meteor and AngularJS Together](https://medium.com/web-dev/4d603a4651bf)
+1. [Why Meteor will kill Ruby on Rails](http://differential.io/blog/meteor-killin-rails)
+1. [How Meteor.js Made Me a God](http://trevorgeise.svbtle.com/meteor-resources-i-use)
 
 # Tutorials
 
@@ -47,16 +51,29 @@ Just open an [issue](https://github.com/ericdouglas/Meteor-Learning/issues?state
 1. [Writing your first Meteor application](http://sebastiandahlgren.se/2013/07/17/tutorial-writing-your-first-metor-application/)
 1. [Building an RSS Reader With Meteor](http://midnightcheese.com/2013/06/building-an-rss-reader-with-meteor/)
 1. [Design a Complete Authentication System with Meteor](https://waaave.com/tutorial/meteor/design-a-complete-authentication-system-with-meteor/)
+1. [Meteor.js in Action: Create an App, Test With Laika](http://mherman.org/blog/2014/01/29/meteor-dot-js-in-action-create-an-app-test-with-laika/#.U2vHCXWx0Tc)
 
 # Talks
 
 1. [Meteor Youtube Channel](https://www.youtube.com/user/MeteorVideos/videos)
+1. [Emily Stark: Meteor - A Full Stack Framework For Building Pure JavaScript Apps - JSConf.Asia 2013](https://www.youtube.com/watch?v=rQCbXNEot5s)
+1. [MongoDB in the Browser and Realtime Application Design with Meteor.js](https://www.youtube.com/watch?v=3Ugm45AmMoA)
+1. [Meteor.js with Matt Debergalis](https://www.youtube.com/watch?v=vpp-8gkPWVE)
+1. MeteorJS Tutorial - [part 1](https://www.youtube.com/watch?v=IVkFRl4kl7U) - [part 2](https://www.youtube.com/watch?v=YiIN1aINLAg) - [part 3](https://www.youtube.com/watch?v=BQekwboGgIg)
+1. Creating a Blog with Meteor.js - [part 1](https://www.youtube.com/watch?v=xTlX8sf-RJE)
+1. [Radically faster web development -- Meteor after one year](https://www.youtube.com/watch?v=NnMqMAYmTuo)
+1. [meteor.js by Roger Zurawicki](https://www.youtube.com/watch?v=5URzpBPQ864)
+1. [SFJS #23: Functional Programming and Meteor.js](https://www.youtube.com/watch?v=HAcN3JyQoyY)
+1. [TakeOff 2013 - Meteor.JS - Geoff Schmidt](https://www.youtube.com/watch?v=4mtLCjhxKAs)
 
 # Screencasts
 
 1. [Diving into Meteor.JS](https://www.youtube.com/playlist?list=PLWOwgptSFZ6SyW3D4KsuAbDrTWWz0Hqa2)
 1. [Lunch and Hack](https://www.youtube.com/playlist?list=PLT6qiYgD0zz2JWuMkbsOiuvM2plDn536r)
 1. [Evented Mind](https://www.eventedmind.com/feed?view=all)
+1. [Meteor Learning](https://www.youtube.com/playlist?list=PLKfAG4yMwKkRT4SVt_j04AnZSKcdYPFgx) or [here](https://www.youtube.com/user/geomck1967/videos)
+1. [How to Debug a Meteor.js Application](https://www.youtube.com/watch?v=KLtkRQ44LYw)
+1. [Meteor 101](https://www.youtube.com/playlist?list=PLrpWosQQQmVZo0wLCszylpbMa_YOU8e_B)
 
 # Books
 
@@ -113,7 +130,7 @@ Just open an [issue](https://github.com/ericdouglas/Meteor-Learning/issues?state
 1. [TangoEdit](http://www.tangoedit.com/) – Collaborative, cloud-based video editing
 1. [Verso](http://percolatestudio.com/case-studies/verso) – The future of classrooms powered by Meteor & Phonegap
 
-## News
+# News
 
 1. [Meteor Weekly](http://meteorhacks.com/meteor-weekly/)
 1. [Crater.io - Meteor News](http://crater.io/)
@@ -139,3 +156,8 @@ Just open an [issue](https://github.com/ericdouglas/Meteor-Learning/issues?state
 1. [Meteor CheatSheet](http://journal.gentlenode.com/meteor-5-cheatsheet/)
 1. [We Work Meteor - job board and community space for users of the Meteor](http://www.weworkmeteor.com/)
 1. [Meteor Jobs](https://twitter.com/meteorjobs)
+1. [METEOR #4: BEST RESSOURCES TO BECOME A MASTER](http://journal.gentlenode.com/meteor-4-best-meteor-ressources/)
+1. [Discovering Meteor Blog](https://www.discovermeteor.com/blog)
+1. [Meteor Resources: Learning and Everyday](http://trevorgeise.svbtle.com/meteor-resources-learning-and-everyday)
+1. [Laika - testing framework for Meteor](http://arunoda.github.io/laika/)
+1. [RTD - The Meteor Test Runner](http://xolvio.github.io/rtd/)
