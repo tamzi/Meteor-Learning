@@ -44,6 +44,7 @@ Just open an [issue](https://github.com/ericdouglas/Meteor-Learning/issues?state
 1. [The Wonderful Duo — Using Meteor and AngularJS Together](https://medium.com/web-dev/4d603a4651bf)
 1. [Why Meteor will kill Ruby on Rails](http://differential.io/blog/meteor-killin-rails)
 1. [How Meteor.js Made Me a God](http://trevorgeise.svbtle.com/meteor-resources-i-use)
+1. [Building an MVP - Crowducate.me](http://www.manuel-schoebel.com/blog/building-an-mvp---crowducateme)
 
 # Tutorials
 
