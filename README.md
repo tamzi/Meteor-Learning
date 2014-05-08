@@ -139,8 +139,8 @@ Just open an [issue](https://github.com/ericdouglas/Meteor-Learning/issues?state
 1. [Verso](http://percolatestudio.com/case-studies/verso) – The future of classrooms powered by Meteor & Phonegap
 1. [CodersTV](http://coderstv.com) - Watch programming videos or broadcast your coder skills with the world
 1. [Respondly](https://respond.ly/) - Team Inbox for Email & Twitter
-1. [getcleanio -laundry and dry cleaning on demand](https://getcleanio.com/)
-2. [sedimently - Knowledge base for startups without wikicomplications](http://sedimently.com/)
+1. [Cleanio](https://getcleanio.com/) - Laundry and dry cleaning on demand
+2. [Sedimently](http://sedimently.com/) - Knowledge base for startups without wikicomplications
 
 # News
 
