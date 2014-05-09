@@ -117,12 +117,12 @@ Just open an [issue](https://github.com/ericdouglas/Meteor-Learning/issues?state
 # Learn with Code
 
 1. [meteor-boilerplate](https://github.com/matteodem/meteor-boilerplate)
-1. [BrowPie - shows visitor stats as Browser charts](https://github.com/alanshaw/meteor-browpie)
-1. [crowducate.me – an open education platform](https://github.com/Crowducate/crowducate.me)
-1. [Reaction - full e-commerce solution](https://github.com/ongoworks/reaction)
-1. [Repeeet - making repet tweeting super simple](https://github.com/meteorhacks/repeeet)
-1. [Telescope -  a hacker-news clone built entirely on Meteor](https://github.com/TelescopeJS/Telescope)
-1. [Weworkmeteor - a Meteor Job Board and Expert Directory](https://github.com/nate-strauser/wework)
+1. [BrowPie](https://github.com/alanshaw/meteor-browpie) - shows visitor stats as Browser charts
+1. [crowducate.me](https://github.com/Crowducate/crowducate.me) – an open education platform
+1. [Reaction](https://github.com/ongoworks/reaction) - full e-commerce solution
+1. [Repeeet](https://github.com/meteorhacks/repeeet) - making repet tweeting super simple
+1. [Telescope](https://github.com/TelescopeJS/Telescope) -  a hacker-news clone built entirely on Meteor
+1. [Weworkmeteor](https://github.com/nate-strauser/wework) - a Meteor Job Board and Expert Directory
 1. [Meteor source code!](https://github.com/meteor/meteor)
 
 # Built with Meteor
