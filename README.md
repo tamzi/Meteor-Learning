@@ -94,6 +94,8 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [Assistant.io](http://assistant.io/) - The easiest way to schedule meetings
 1. [Liquid](https://getliquid.io/) - Collect, share, and analyze data
 2. [Hast](https://github.com/zhouzhuojie/hast) - an on-the-fly presentation for everyone
+3. [Telescope](http://telesc.pe/) - a social news platform
+4. [Made With](http://madewith.meteor.com/) - a list of applications built with meteor
 
 # Community
 
@@ -185,3 +187,4 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [Meteor Resources: Learning and Everyday](http://trevorgeise.svbtle.com/meteor-resources-learning-and-everyday)
 1. [Laika - testing framework for Meteor](http://arunoda.github.io/laika/)
 1. [RTD - The Meteor Test Runner](http://xolvio.github.io/rtd/)
+2. [Useful Meteor Resources](https://www.discovermeteor.com/blog/useful-meteor-resources/)
