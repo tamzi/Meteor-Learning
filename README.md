@@ -10,7 +10,7 @@
 * [Articles & Tutorials](#articles--tutorials)
 * [Books](#books)
 * [Built with Meteor](#built-with-meteor)
-* [Community](#Community)
+* [Community](#community)
 * [Courses](#courses)
 * [Learn with Code](#learn-with-code)
 * [News](#news)
