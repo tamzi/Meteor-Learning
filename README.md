@@ -7,30 +7,31 @@
 ## Table of Contents
 
 * [How to Colaborate](#how-to-colaborate)
-* [Articles](#articles)
-* [Tutorials](#tutorials)
-* [Talks](#talks)
-* [Screencasts](#screencasts)
+* [Articles & Tutorials](#articles--tutorials)
 * [Books](#books)
-* [Courses](#courses)
-* [Slides](#slides)
-* [Podcasts](#podcasts)
-* [Learn with Code](#learn-with-code)
 * [Built with Meteor](#built-with-meteor)
+# [Community](#Community)
+* [Courses](#courses)
+* [Learn with Code](#learn-with-code)
 * [News](#news)
+* [Podcasts](#podcasts)
+* [Screencasts](#screencasts)
+* [Slides](#slides)
+* [Talks](#talks)
 * [More Useful Links](#more-useful-links)
 
 > This list was inspired by [this](https://github.com/jmcunningham/AngularJS-Learning) and [this](http://yauh.de/articles/376/best-learning-resources-for-meteorjs)!
 
 # How to Colaborate
 
-Just open an [issue](https://github.com/ericdouglas/Meteor-Learning/issues?state=open) to send more useful links! After it, I'll update the list!
+Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteor-Learning/issues?state=open) to send more useful links! After it, I'll update the list!
 
-# Articles
+# Articles & Tutorials
 
 1. [Meteor.js - The Perfect Match For Lean Startups](http://www.manuel-schoebel.com/blog/meteorjs-the-perfect-match-for-lean-startups)
 1. [Why web beginners should start with Meteor](https://www.meteor.com/blog/2013/12/13/why-web-beginners-should-start-with-meteor)
 1. [Learn Meteor Fundamentals and Best Practices](http://andrewscala.com/meteor/)
+1. [Meteor's official examples](https://www.meteor.com/examples/)
 1. [Introduction to Realtime Web with Meteor and Node.js](https://www.andrewmunsell.com/blog/introduction-to-realtime-web-meteor-and-nodejs)
 1. [Building a customized accounts ui for Meteor](http://blog.benmcmahen.com/post/41741539120/building-a-customized-accounts-ui-for-meteor)
 1. [Using d3 and Meteor to generate scalable vector graphics (SVG)](http://blog.benmcmahen.com/post/41124327100/using-d3-and-meteor-to-generate-scalable-vector)
@@ -48,36 +49,10 @@ Just open an [issue](https://github.com/ericdouglas/Meteor-Learning/issues?state
 1. [METEOR #9: INTERNATIONALIZATION. (I18N)](http://journal.gentlenode.com/meteor-9-internationalization-i18n/)
 1. [Introduction to DDP](http://meteorhacks.com/introduction-to-ddp.html)
 1. `pt-br` | [Tudo sobre Meteor](http://udgwebdev.com/meteor)
-
-# Tutorials
-
-1. [Meteor's official examples](https://www.meteor.com/examples/)
 1. [Writing your first Meteor application](http://sebastiandahlgren.se/2013/07/17/tutorial-writing-your-first-metor-application/)
 1. [Building an RSS Reader With Meteor](http://midnightcheese.com/2013/06/building-an-rss-reader-with-meteor/)
 1. [Design a Complete Authentication System with Meteor](https://waaave.com/tutorial/meteor/design-a-complete-authentication-system-with-meteor/)
 1. [Meteor.js in Action: Create an App, Test With Laika](http://mherman.org/blog/2014/01/29/meteor-dot-js-in-action-create-an-app-test-with-laika/#.U2vHCXWx0Tc)
-
-# Talks
-
-1. [Meteor Youtube Channel](https://www.youtube.com/user/MeteorVideos/videos)
-1. [Emily Stark: Meteor - A Full Stack Framework For Building Pure JavaScript Apps - JSConf.Asia 2013](https://www.youtube.com/watch?v=rQCbXNEot5s)
-1. [MongoDB in the Browser and Realtime Application Design with Meteor.js](https://www.youtube.com/watch?v=3Ugm45AmMoA)
-1. [Meteor.js with Matt Debergalis](https://www.youtube.com/watch?v=vpp-8gkPWVE)
-1. MeteorJS Tutorial - [part 1](https://www.youtube.com/watch?v=IVkFRl4kl7U) - [part 2](https://www.youtube.com/watch?v=YiIN1aINLAg) - [part 3](https://www.youtube.com/watch?v=BQekwboGgIg)
-1. Creating a Blog with Meteor.js - [part 1](https://www.youtube.com/watch?v=xTlX8sf-RJE)
-1. [Radically faster web development -- Meteor after one year](https://www.youtube.com/watch?v=NnMqMAYmTuo)
-1. [meteor.js by Roger Zurawicki](https://www.youtube.com/watch?v=5URzpBPQ864)
-1. [SFJS #23: Functional Programming and Meteor.js](https://www.youtube.com/watch?v=HAcN3JyQoyY)
-1. [TakeOff 2013 - Meteor.JS - Geoff Schmidt](https://www.youtube.com/watch?v=4mtLCjhxKAs)
-
-# Screencasts
-
-1. [Diving into Meteor.JS](https://www.youtube.com/playlist?list=PLWOwgptSFZ6SyW3D4KsuAbDrTWWz0Hqa2)
-1. [Lunch and Hack](https://www.youtube.com/playlist?list=PLT6qiYgD0zz2JWuMkbsOiuvM2plDn536r)
-1. [Evented Mind](https://www.eventedmind.com/feed?view=all)
-1. [Meteor Learning](https://www.youtube.com/playlist?list=PLKfAG4yMwKkRT4SVt_j04AnZSKcdYPFgx) or [here](https://www.youtube.com/user/geomck1967/videos)
-1. [How to Debug a Meteor.js Application](https://www.youtube.com/watch?v=KLtkRQ44LYw)
-1. [Meteor 101](https://www.youtube.com/playlist?list=PLrpWosQQQmVZo0wLCszylpbMa_YOU8e_B)
 
 # Books
 
@@ -92,38 +67,6 @@ Just open an [issue](https://github.com/ericdouglas/Meteor-Learning/issues?state
 
 1. [Discover Meteor - Multilingual](https://www.discovermeteor.com/translations)
 2. `pt-br` | [Meteor: Criando aplicações web real-time com JavaScript](https://casadocodigo.refersion.com/l/d88.3525)
-
-# Courses
-
-1. [Single Page Web Apps with Meteor](https://tutsplus.com/course/building-single-page-web-application-with-meteor-js/)
-1. [Meteor.js Fundamentals for Single Page Applications](http://pluralsight.com/training/courses/TableOfContents?courseName=meteorjs-fundamentals-single-page-apps&highlight=john-sonmez_meteor-spa-m2-magic*8,4,7,5,6,0,1,2,3,9,10,12,13,14,15,16,11!john-sonmez_meteor-spa-m5-beyond*2,9,3,7,0,1,4,6,10,11,12,13,14,15,16,17,8!john-sonmez_meteor-spa-m1-intro*4,6,11,13,12,14,0,1,3,5,7,8,9,10,15,2!john-sonmez_meteor-spa-m3-app*5,0,2,3,4,6,7,12,17,19,20,8,9,11,13,14,16,18,1,10,15!john-sonmez_meteor-spa-m4-extend*16,17,18,0,2,3,5,12,14,15,19,21,22,4,6,7,8,10,11,13,20,1,9#meteor-spa-m2-magic)
-
-# Slides
-
-1. [Intro to Meteor](https://speakerdeck.com/shrop/intro-to-meteor)
-1. [Meteor before impact!](https://speakerdeck.com/dasniko/meteor-before-impact)
-1. [Getting Started with MeteorJS](https://speakerdeck.com/cggaurav/getting-started-with-meteorjs)
-1. [Code Dojo 23: Meteor Hack](https://speakerdeck.com/sleepyfox/code-dojo-23-meteor-hack)
-1. [From Meteor To Maker](https://speakerdeck.com/nitya/from-meteor-to-maker)
-1. [Meteor - A better way to build apps](https://speakerdeck.com/comtom/meteor-intro-talk)
-1. [Meteor - like Django, had it been written today](https://speakerdeck.com/dibau_naum_h/meteor-intro-talk)
-1. [Meteor](https://speakerdeck.com/pkaushik/meteor-2013)
-1. [Real-Time Web Apps Using MongoDB and Meteor](https://speakerdeck.com/pkaushik/meteor-4-mongodb-chicago)
-
-# Podcasts
-
-1. [The Meteor Podcast](http://www.meteorpodcast.com/)
-
-# Learn with Code
-
-1. [meteor-boilerplate](https://github.com/matteodem/meteor-boilerplate)
-1. [BrowPie](https://github.com/alanshaw/meteor-browpie) - shows visitor stats as Browser charts
-1. [crowducate.me](https://github.com/Crowducate/crowducate.me) – an open education platform
-1. [Reaction](https://github.com/ongoworks/reaction) - full e-commerce solution
-1. [Repeeet](https://github.com/meteorhacks/repeeet) - making repet tweeting super simple
-1. [Telescope](https://github.com/TelescopeJS/Telescope) -  a hacker-news clone built entirely on Meteor
-1. [Weworkmeteor](https://github.com/nate-strauser/wework) - a Meteor Job Board and Expert Directory
-1. [Meteor source code!](https://github.com/meteor/meteor)
 
 # Built with Meteor
 
@@ -146,11 +89,71 @@ Just open an [issue](https://github.com/ericdouglas/Meteor-Learning/issues?state
 1. [Liquid](https://getliquid.io/) - Collect, share, and analyze data
 2. [Hast](https://github.com/zhouzhuojie/hast) - an on-the-fly presentation for everyone
 
+# Community
+
+1. [Meteor Google Group](https://groups.google.com/forum/?fromgroups#!forum/meteor-talk)
+1. [IRC Channel on freenode](http://meteor.com/irc)
+1. [Meteor on Twitter](https://twitter.com/meteorjs)
+
+# Courses
+
+1. [Single Page Web Apps with Meteor](https://tutsplus.com/course/building-single-page-web-application-with-meteor-js/)
+1. [Meteor.js Fundamentals for Single Page Applications](http://pluralsight.com/training/courses/TableOfContents?courseName=meteorjs-fundamentals-single-page-apps&highlight=john-sonmez_meteor-spa-m2-magic*8,4,7,5,6,0,1,2,3,9,10,12,13,14,15,16,11!john-sonmez_meteor-spa-m5-beyond*2,9,3,7,0,1,4,6,10,11,12,13,14,15,16,17,8!john-sonmez_meteor-spa-m1-intro*4,6,11,13,12,14,0,1,3,5,7,8,9,10,15,2!john-sonmez_meteor-spa-m3-app*5,0,2,3,4,6,7,12,17,19,20,8,9,11,13,14,16,18,1,10,15!john-sonmez_meteor-spa-m4-extend*16,17,18,0,2,3,5,12,14,15,19,21,22,4,6,7,8,10,11,13,20,1,9#meteor-spa-m2-magic)
+
+# Learn with Code
+
+1. [meteor-boilerplate](https://github.com/matteodem/meteor-boilerplate)
+1. [BrowPie](https://github.com/alanshaw/meteor-browpie) - shows visitor stats as Browser charts
+1. [crowducate.me](https://github.com/Crowducate/crowducate.me) – an open education platform
+1. [Reaction](https://github.com/ongoworks/reaction) - full e-commerce solution
+1. [Repeeet](https://github.com/meteorhacks/repeeet) - making repet tweeting super simple
+1. [Telescope](https://github.com/TelescopeJS/Telescope) -  a hacker-news clone built entirely on Meteor
+1. [Weworkmeteor](https://github.com/nate-strauser/wework) - a Meteor Job Board and Expert Directory
+1. [Meteor source code!](https://github.com/meteor/meteor)
+
 # News
 
 1. [Meteor Weekly](http://meteorhacks.com/meteor-weekly/)
 1. [Crater.io - Meteor News](http://crater.io/)
 1. [MeteorHacks](http://meteorhacks.com/)
+
+# Podcasts
+
+1. [The Meteor Podcast](http://www.meteorpodcast.com/)
+
+# Screencasts
+
+1. [Diving into Meteor.JS](https://www.youtube.com/playlist?list=PLWOwgptSFZ6SyW3D4KsuAbDrTWWz0Hqa2)
+1. [Lunch and Hack](https://www.youtube.com/playlist?list=PLT6qiYgD0zz2JWuMkbsOiuvM2plDn536r)
+1. [Evented Mind](https://www.eventedmind.com/feed?view=all)
+1. [Meteor Learning](https://www.youtube.com/playlist?list=PLKfAG4yMwKkRT4SVt_j04AnZSKcdYPFgx) or [here](https://www.youtube.com/user/geomck1967/videos)
+1. [How to Debug a Meteor.js Application](https://www.youtube.com/watch?v=KLtkRQ44LYw)
+1. [Meteor 101](https://www.youtube.com/playlist?list=PLrpWosQQQmVZo0wLCszylpbMa_YOU8e_B)
+
+# Slides
+
+1. [Intro to Meteor](https://speakerdeck.com/shrop/intro-to-meteor)
+1. [Meteor before impact!](https://speakerdeck.com/dasniko/meteor-before-impact)
+1. [Getting Started with MeteorJS](https://speakerdeck.com/cggaurav/getting-started-with-meteorjs)
+1. [Code Dojo 23: Meteor Hack](https://speakerdeck.com/sleepyfox/code-dojo-23-meteor-hack)
+1. [From Meteor To Maker](https://speakerdeck.com/nitya/from-meteor-to-maker)
+1. [Meteor - A better way to build apps](https://speakerdeck.com/comtom/meteor-intro-talk)
+1. [Meteor - like Django, had it been written today](https://speakerdeck.com/dibau_naum_h/meteor-intro-talk)
+1. [Meteor](https://speakerdeck.com/pkaushik/meteor-2013)
+1. [Real-Time Web Apps Using MongoDB and Meteor](https://speakerdeck.com/pkaushik/meteor-4-mongodb-chicago)
+
+# Talks
+
+1. [Meteor Youtube Channel](https://www.youtube.com/user/MeteorVideos/videos)
+1. [Emily Stark: Meteor - A Full Stack Framework For Building Pure JavaScript Apps - JSConf.Asia 2013](https://www.youtube.com/watch?v=rQCbXNEot5s)
+1. [MongoDB in the Browser and Realtime Application Design with Meteor.js](https://www.youtube.com/watch?v=3Ugm45AmMoA)
+1. [Meteor.js with Matt Debergalis](https://www.youtube.com/watch?v=vpp-8gkPWVE)
+1. MeteorJS Tutorial - [part 1](https://www.youtube.com/watch?v=IVkFRl4kl7U) - [part 2](https://www.youtube.com/watch?v=YiIN1aINLAg) - [part 3](https://www.youtube.com/watch?v=BQekwboGgIg)
+1. Creating a Blog with Meteor.js - [part 1](https://www.youtube.com/watch?v=xTlX8sf-RJE)
+1. [Radically faster web development -- Meteor after one year](https://www.youtube.com/watch?v=NnMqMAYmTuo)
+1. [meteor.js by Roger Zurawicki](https://www.youtube.com/watch?v=5URzpBPQ864)
+1. [SFJS #23: Functional Programming and Meteor.js](https://www.youtube.com/watch?v=HAcN3JyQoyY)
+1. [TakeOff 2013 - Meteor.JS - Geoff Schmidt](https://www.youtube.com/watch?v=4mtLCjhxKAs)
 
 # More Useful Links
 
@@ -162,8 +165,6 @@ Just open an [issue](https://github.com/ericdouglas/Meteor-Learning/issues?state
 1. [Meteorite - a Meteor version manager and package manager](https://github.com/oortcloud/meteorite)
 1. [Atmosphere - Explore Meteor Packages](https://atmospherejs.com/)
 1. [Meteor on StackOverflow](http://stackoverflow.com/questions/tagged/meteor)
-1. [IRC Channel on freenode](http://meteor.com/irc)
-1. [Meteor Google Group](https://groups.google.com/forum/?fromgroups#!forum/meteor-talk)
 1. [Top Resources for learning MeteorJS - Hackpad](https://hackpad.com/Top-Resources-for-learning-MeteorJS-Nrpnr6CHiGs)
 1. [Meteor security resources](http://security-resources.meteor.com/)
 1. [meteor-phonegap](https://github.com/guaka/meteor-phonegap)
