@@ -53,6 +53,12 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [Building an RSS Reader With Meteor](http://midnightcheese.com/2013/06/building-an-rss-reader-with-meteor/)
 1. [Design a Complete Authentication System with Meteor](https://waaave.com/tutorial/meteor/design-a-complete-authentication-system-with-meteor/)
 1. [Meteor.js in Action: Create an App, Test With Laika](http://mherman.org/blog/2014/01/29/meteor-dot-js-in-action-create-an-app-test-with-laika/#.U2vHCXWx0Tc)
+1. [What's This Meteor Thing?](http://code.tutsplus.com/tutorials/whats-this-meteor-thing--net-25426)
+1. [Meteor for Front-End Engineers](http://davidwalsh.name/meteor-frontend-engineers)
+1. [Confessions of a Meteor Newb](http://blog.jerodsanto.net/2012/04/confessions-of-a-meteor-newb/)
+1. [9 ways that Meteor JS raises expectations](http://mrcoles.com/meteor-raising-the-bar/)
+1. [Building An App In 45 Minutes With Meteor](http://www.smashingmagazine.com/2013/06/13/build-app-45-minutes-meteor/)
+1. [Add routing to Meteor JS](http://sebastiandahlgren.se/2013/07/20/add-routing-to-meteor-js/)
 
 # Books
 
@@ -129,6 +135,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [Meteor Learning](https://www.youtube.com/playlist?list=PLKfAG4yMwKkRT4SVt_j04AnZSKcdYPFgx) or [here](https://www.youtube.com/user/geomck1967/videos)
 1. [How to Debug a Meteor.js Application](https://www.youtube.com/watch?v=KLtkRQ44LYw)
 1. [Meteor 101](https://www.youtube.com/playlist?list=PLrpWosQQQmVZo0wLCszylpbMa_YOU8e_B)
+1. [Meteor - Chat Room Tutorial](http://vimeo.com/40300075)
 
 # Slides
 
