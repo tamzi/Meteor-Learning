@@ -138,6 +138,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [How to Debug a Meteor.js Application](https://www.youtube.com/watch?v=KLtkRQ44LYw)
 1. [Meteor 101](https://www.youtube.com/playlist?list=PLrpWosQQQmVZo0wLCszylpbMa_YOU8e_B)
 1. [Meteor - Chat Room Tutorial](http://vimeo.com/40300075)
+2. [Meteor's site Screencast](https://www.meteor.com/screencast)
 
 # Slides
 
