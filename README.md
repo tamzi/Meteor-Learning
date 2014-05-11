@@ -143,7 +143,8 @@ Just open an [issue](https://github.com/ericdouglas/Meteor-Learning/issues?state
 1. [Cleanio](https://getcleanio.com/) - Laundry and dry cleaning on demand
 1. [Sedimently](http://sedimently.com/) - Knowledge base for startups without wikicomplications
 1. [Assistant.io](http://assistant.io/) - The easiest way to schedule meetings
-1. [Liquid](https://getliquid.io/) - Collect, share, and analyze data 
+1. [Liquid](https://getliquid.io/) - Collect, share, and analyze data
+2. [Hast](https://github.com/zhouzhuojie/hast) - an on-the-fly presentation for everyone
 
 # News
 
