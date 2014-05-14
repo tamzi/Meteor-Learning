@@ -48,7 +48,6 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [Building an MVP - Crowducate.me](http://www.manuel-schoebel.com/blog/building-an-mvp---crowducateme)
 1. [METEOR #9: INTERNATIONALIZATION. (I18N)](http://journal.gentlenode.com/meteor-9-internationalization-i18n/)
 1. [Introduction to DDP](http://meteorhacks.com/introduction-to-ddp.html)
-1. `pt-br` | [Tudo sobre Meteor](http://udgwebdev.com/meteor)
 1. [Writing your first Meteor application](http://sebastiandahlgren.se/2013/07/17/tutorial-writing-your-first-metor-application/)
 1. [Building an RSS Reader With Meteor](http://midnightcheese.com/2013/06/building-an-rss-reader-with-meteor/)
 1. [Design a Complete Authentication System with Meteor](https://waaave.com/tutorial/meteor/design-a-complete-authentication-system-with-meteor/)
