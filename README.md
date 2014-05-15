@@ -168,6 +168,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 
 1. [Best Learning Resources for Meteor.js](http://yauh.de/articles/376/best-learning-resources-for-meteorjs)
 1. [The Mission of Meteor](https://www.meteor.com/about/mission)
+2. [Meteor's new $11.2 million development budget](https://www.meteor.com/blog/2012/07/25/meteors-new-112-million-development-budget)
 1. [The Reactive Manifesto](http://www.reactivemanifesto.org/)
 1. [Meteor's Documentation](http://docs.meteor.com/)
 1. [Unofficial Meteor FAQ](https://github.com/oortcloud/unofficial-meteor-faq)
