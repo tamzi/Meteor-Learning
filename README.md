@@ -58,6 +58,8 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [9 ways that Meteor JS raises expectations](http://mrcoles.com/meteor-raising-the-bar/)
 1. [Building An App In 45 Minutes With Meteor](http://www.smashingmagazine.com/2013/06/13/build-app-45-minutes-meteor/)
 1. [Add routing to Meteor JS](http://sebastiandahlgren.se/2013/07/20/add-routing-to-meteor-js/)
+2. [Meteor and SEO](http://www.manuel-schoebel.com/blog/meteor-and-seo)
+3. [5 Meteor Misconceptions](https://www.discovermeteor.com/blog/meteor-misconceptions/)
 
 # Books
 
