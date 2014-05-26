@@ -61,6 +61,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 2. [Meteor and SEO](http://www.manuel-schoebel.com/blog/meteor-and-seo)
 3. [5 Meteor Misconceptions](https://www.discovermeteor.com/blog/meteor-misconceptions/)
 4. [Why the future of the web is real-time (6 months w/ Meteor)](http://thechangelog.com/why-meteor/)
+5. [Instant web applications with Meteor](http://www.ibm.com/developerworks/web/library/wa-meteor-webapps/index.html?ca=drs-)
 
 # Books
 
