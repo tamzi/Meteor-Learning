@@ -62,6 +62,9 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 3. [5 Meteor Misconceptions](https://www.discovermeteor.com/blog/meteor-misconceptions/)
 4. [Why the future of the web is real-time (6 months w/ Meteor)](http://thechangelog.com/why-meteor/)
 5. [Instant web applications with Meteor](http://www.ibm.com/developerworks/web/library/wa-meteor-webapps/index.html?ca=drs-)
+6. [So, I’m Learning Meteor.js](https://medium.com/@dturnbull/21b419d543ba)
+7. [Learning Meteor, Part 2](https://medium.com/all-about-meteorjs/6ed9ee46600e)
+8. [Going all in with Meteor.JS](https://medium.com/all-about-meteorjs/93b46f9253b4)
 
 # Books
 
