@@ -196,3 +196,4 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [Laika - testing framework for Meteor](http://arunoda.github.io/laika/)
 1. [RTD - The Meteor Test Runner](http://xolvio.github.io/rtd/)
 2. [Useful Meteor Resources](https://www.discovermeteor.com/blog/useful-meteor-resources/)
+3. [Kadira : Meteor Performance Monitoring Service](https://kadira.io/)
