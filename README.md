@@ -65,6 +65,8 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 6. [So, I’m Learning Meteor.js](https://medium.com/@dturnbull/21b419d543ba)
 7. [Learning Meteor, Part 2](https://medium.com/all-about-meteorjs/6ed9ee46600e)
 8. [Going all in with Meteor.JS](https://medium.com/all-about-meteorjs/93b46f9253b4)
+9. [Iron Router: First Steps](http://robertdickert.com/blog/2014/05/08/iron-router-first-steps/)
+10. [Set Up Navigation With Iron Router and Bootstrap](http://robertdickert.com/blog/2014/05/09/set-up-navigation-with-iron-router-and-bootstrap/)
 
 # Books
 
