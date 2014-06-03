@@ -104,6 +104,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 2. [Hast](https://github.com/zhouzhuojie/hast) - an on-the-fly presentation for everyone
 3. [Telescope](http://telesc.pe/) - a social news platform
 4. [Made With](http://madewith.meteor.com/) - a list of applications built with meteor
+5. [antichess](http://antichess.meteor.com/) - a chess variant in which the objective of each player is to lose all of his pieces
 
 # Community
 
