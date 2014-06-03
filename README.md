@@ -68,6 +68,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 9. [Iron Router: First Steps](http://robertdickert.com/blog/2014/05/08/iron-router-first-steps/)
 10. [Set Up Navigation With Iron Router and Bootstrap](http://robertdickert.com/blog/2014/05/09/set-up-navigation-with-iron-router-and-bootstrap/)
 11. [The (not so) real problems of meteor.js](http://differential.io/blog/the-not-so-real-problems-of-meteorjs)
+12. [Getting Started with Databases in Meteor: A Complete Beginner’s Guide to MongoDB](http://meteortips.com/mongodb-database-tutorial/)
 
 # Books
 
