@@ -102,7 +102,6 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [Respondly](https://respond.ly/) - Team Inbox for Email & Twitter
 1. [Cleanio](https://getcleanio.com/) - Laundry and dry cleaning on demand
 1. [Sedimently](http://sedimently.com/) - Knowledge base for startups without wikicomplications
-1. [Assistant.io](http://assistant.io/) - The easiest way to schedule meetings
 1. [Liquid](https://getliquid.io/) - Collect, share, and analyze data
 2. [Hast](https://github.com/zhouzhuojie/hast) - an on-the-fly presentation for everyone
 3. [Telescope](http://telesc.pe/) - a social news platform
