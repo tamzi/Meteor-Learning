@@ -70,6 +70,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 11. [The (not so) real problems of meteor.js](http://differential.io/blog/the-not-so-real-problems-of-meteorjs)
 12. [Getting Started with Databases in Meteor: A Complete Beginner’s Guide to MongoDB](http://meteortips.com/mongodb-database-tutorial/)
 13. [I’ve Hitched My Wagon to Meteor](https://medium.com/@ciaraburkett/ive-hitched-my-wagon-to-meteor-8368490a5702)
+14. [Learn Meteor.js Properly](http://javascriptissexy.com/learn-meteor-js-properly/)
 
 # Books
 
