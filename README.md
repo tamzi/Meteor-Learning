@@ -76,7 +76,6 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 
 1. [Discover Meteor](http://www.discovermeteor.com/)
 1. [Getting Started with Meteor.js JavaScript Framework](http://www.packtpub.com/getting-started-with-meteor-javascript-framework/book)
-1. [Getting started with Meteor.js](https://leanpub.com/getting-started-with-meteorjs)
 1. [Instant Meteor JavaScript Framework Starter](http://www.packtpub.com/meteor-javascript-framework-starter/book)
 1. [Testing with Meteor](http://testingmeteor.com/)
 1. [Meteor Cookbook](http://meteorgitbook.harp.io/)
@@ -110,6 +109,8 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 5. [antichess](http://antichess.meteor.com/) - a chess variant in which the objective of each player is to lose all of his pieces
 6. [Movienr](http://www.movienr.com/) - social way of discovering movies while engaging with fellow movie addicts
 7. [Writ](http://writ.bassam.co/) - A Markdown app for mere mortals
+8. [Meeting Hero](http://www.meetinghero.com/) - Realtime collaborative meeting agenda and minutes, connects to your Google Calendar.
+9. [EtherPOS](http://www.etherpos.com/) - Retail point of sale system.
 
 # Community
 
