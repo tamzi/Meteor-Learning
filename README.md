@@ -6,7 +6,7 @@
 
 ## Table of Contents
 
-* [How to Colaborate](#how-to-colaborate)
+* [How to Collaborate](#how-to-collaborate)
 * [Articles & Tutorials](#articles--tutorials)
 * [Books](#books)
 * [Built with Meteor](#built-with-meteor)
@@ -22,7 +22,7 @@
 
 > This list was inspired by [this](https://github.com/jmcunningham/AngularJS-Learning) and [this](http://yauh.de/articles/376/best-learning-resources-for-meteorjs)!
 
-# How to Colaborate
+# How to Collaborate
 
 Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteor-Learning/issues?state=open) to send more useful links! After it, I'll update the list!
 
