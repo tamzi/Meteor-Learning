@@ -32,6 +32,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [Why web beginners should start with Meteor](https://www.meteor.com/blog/2013/12/13/why-web-beginners-should-start-with-meteor)
 1. [Learn Meteor Fundamentals and Best Practices](http://andrewscala.com/meteor/)
 1. [Meteor's official examples](https://www.meteor.com/examples/)
+1. [Meteor 1.0 Tutorial - Build an app from scratch](http://www.webtempest.com/meteorjs-fromscratch-1)
 1. [Introduction to Realtime Web with Meteor and Node.js](https://www.andrewmunsell.com/blog/introduction-to-realtime-web-meteor-and-nodejs)
 1. [Building a customized accounts ui for Meteor](http://blog.benmcmahen.com/post/41741539120/building-a-customized-accounts-ui-for-meteor)
 1. [Using d3 and Meteor to generate scalable vector graphics (SVG)](http://blog.benmcmahen.com/post/41124327100/using-d3-and-meteor-to-generate-scalable-vector)
