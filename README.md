@@ -72,6 +72,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 12. [Getting Started with Databases in Meteor: A Complete Beginner’s Guide to MongoDB](http://meteortips.com/mongodb-database-tutorial/)
 13. [I’ve Hitched My Wagon to Meteor](https://medium.com/@ciaraburkett/ive-hitched-my-wagon-to-meteor-8368490a5702)
 14. [Learn Meteor.js Properly](http://javascriptissexy.com/learn-meteor-js-properly/)
+15. [Everything You Need To Know About Async & Meteor](http://phucnguyen.info/blog/everything-you-need-to-know-about-async-meteor/)
 
 # Books
 
@@ -112,6 +113,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 7. [Writ](http://writ.bassam.co/) - A Markdown app for mere mortals
 8. [Meeting Hero](http://www.meetinghero.com/) - Realtime collaborative meeting agenda and minutes, connects to your Google Calendar.
 9. [EtherPOS](http://www.etherpos.com/) - Retail point of sale system.
+10. [Meteor URL Shortener](https://github.com/npvn/meteor-url-shortener) - Open-source URL shortening app with several good practices in place
 
 # Community
 
