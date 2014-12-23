@@ -73,13 +73,14 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 13. [I’ve Hitched My Wagon to Meteor](https://medium.com/@ciaraburkett/ive-hitched-my-wagon-to-meteor-8368490a5702)
 14. [Learn Meteor.js Properly](http://javascriptissexy.com/learn-meteor-js-properly/)
 15. [Everything You Need To Know About Async & Meteor](http://phucnguyen.info/blog/everything-you-need-to-know-about-async-meteor/)
+16. [Bullet-proof Meteor applications with Velocity, Unit Testing, Integration Testing and Jasmine](https://doctorllama.wordpress.com/2014/09/22/bullet-proof-internationalised-meteor-applications-with-velocity-unit-testing-integration-testing-and-jasmine/)
 
 # Books
 
 1. [Discover Meteor](http://www.discovermeteor.com/)
 1. [Getting Started with Meteor.js JavaScript Framework](http://www.packtpub.com/getting-started-with-meteor-javascript-framework/book)
 1. [Instant Meteor JavaScript Framework Starter](http://www.packtpub.com/meteor-javascript-framework-starter/book)
-1. [Testing with Meteor](http://testingmeteor.com/)
+1. [The Meteor Testing Manual](http://www.meteortesting.com/)
 1. [Meteor Cookbook](http://meteorgitbook.harp.io/)
 
 ## Books in Other Languages
