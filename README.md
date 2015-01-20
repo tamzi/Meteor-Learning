@@ -115,6 +115,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 8. [Meeting Hero](http://www.meetinghero.com/) - Realtime collaborative meeting agenda and minutes, connects to your Google Calendar.
 9. [EtherPOS](http://www.etherpos.com/) - Retail point of sale system.
 10. [Meteor URL Shortener](https://github.com/npvn/meteor-url-shortener) - Open-source URL shortening app with several good practices in place
+11. [Teamput](https://teamput.com/) - Simple and uniquely effective sticky-note app that gives every team member a voice in idea generation.
 
 # Community
 
