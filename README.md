@@ -59,26 +59,27 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [9 ways that Meteor JS raises expectations](http://mrcoles.com/meteor-raising-the-bar/)
 1. [Building An App In 45 Minutes With Meteor](http://www.smashingmagazine.com/2013/06/13/build-app-45-minutes-meteor/)
 1. [Add routing to Meteor JS](http://sebastiandahlgren.se/2013/07/20/add-routing-to-meteor-js/)
-2. [Meteor and SEO](http://www.manuel-schoebel.com/blog/meteor-and-seo)
-3. [5 Meteor Misconceptions](https://www.discovermeteor.com/blog/meteor-misconceptions/)
-4. [Why the future of the web is real-time (6 months w/ Meteor)](http://thechangelog.com/why-meteor/)
-5. [Instant web applications with Meteor](http://www.ibm.com/developerworks/web/library/wa-meteor-webapps/index.html?ca=drs-)
-6. [So, I’m Learning Meteor.js](https://medium.com/@dturnbull/21b419d543ba)
-7. [Learning Meteor, Part 2](https://medium.com/all-about-meteorjs/6ed9ee46600e)
-8. [Going all in with Meteor.JS](https://medium.com/all-about-meteorjs/93b46f9253b4)
-9. [Iron Router: First Steps](http://robertdickert.com/blog/2014/05/08/iron-router-first-steps/)
-10. [Set Up Navigation With Iron Router and Bootstrap](http://robertdickert.com/blog/2014/05/09/set-up-navigation-with-iron-router-and-bootstrap/)
-11. [The (not so) real problems of meteor.js](http://differential.io/blog/the-not-so-real-problems-of-meteorjs)
-12. [Getting Started with Databases in Meteor: A Complete Beginner’s Guide to MongoDB](http://meteortips.com/mongodb-database-tutorial/)
-13. [I’ve Hitched My Wagon to Meteor](https://medium.com/@ciaraburkett/ive-hitched-my-wagon-to-meteor-8368490a5702)
-14. [Learn Meteor.js Properly](http://javascriptissexy.com/learn-meteor-js-properly/)
-15. [Everything You Need To Know About Async & Meteor](http://phucnguyen.info/blog/everything-you-need-to-know-about-async-meteor/)
-16. [Bullet-proof Meteor applications with Velocity, Unit Testing, Integration Testing and Jasmine](https://doctorllama.wordpress.com/2014/09/22/bullet-proof-internationalised-meteor-applications-with-velocity-unit-testing-integration-testing-and-jasmine/)
+1. [Meteor and SEO](http://www.manuel-schoebel.com/blog/meteor-and-seo)
+1. [5 Meteor Misconceptions](https://www.discovermeteor.com/blog/meteor-misconceptions/)
+1. [Why the future of the web is real-time (6 months w/ Meteor)](http://thechangelog.com/why-meteor/)
+1. [Instant web applications with Meteor](http://www.ibm.com/developerworks/web/library/wa-meteor-webapps/index.html?ca=drs-)
+1. [So, I’m Learning Meteor.js](https://medium.com/@dturnbull/21b419d543ba)
+1. [Learning Meteor, Part 2](https://medium.com/all-about-meteorjs/6ed9ee46600e)
+1. [Going all in with Meteor.JS](https://medium.com/all-about-meteorjs/93b46f9253b4)
+1. [Iron Router: First Steps](http://robertdickert.com/blog/2014/05/08/iron-router-first-steps/)
+1. [Set Up Navigation With Iron Router and Bootstrap](http://robertdickert.com/blog/2014/05/09/set-up-navigation-with-iron-router-and-bootstrap/)
+1. [The (not so) real problems of meteor.js](http://differential.io/blog/the-not-so-real-problems-of-meteorjs)
+1. [Getting Started with Databases in Meteor: A Complete Beginner’s Guide to MongoDB](http://meteortips.com/mongodb-database-tutorial/)
+1. [I’ve Hitched My Wagon to Meteor](https://medium.com/@ciaraburkett/ive-hitched-my-wagon-to-meteor-8368490a5702)
+1. [Learn Meteor.js Properly](http://javascriptissexy.com/learn-meteor-js-properly/)
+1. [Everything You Need To Know About Async & Meteor](http://phucnguyen.info/blog/everything-you-need-to-know-about-async-meteor/)
+1. [Bullet-proof Meteor applications with Velocity, Unit Testing, Integration Testing and Jasmine](https://doctorllama.wordpress.com/2014/09/22/bullet-proof-internationalised-meteor-applications-with-velocity-unit-testing-integration-testing-and-jasmine/)
 
 # Books
 
 1. [Discover Meteor](http://www.discovermeteor.com/)
 1. [Getting Started with Meteor.js JavaScript Framework](http://www.packtpub.com/getting-started-with-meteor-javascript-framework/book)
+1. [Meteor in Action](http://www.meteorinaction.com/)
 1. [Instant Meteor JavaScript Framework Starter](http://www.packtpub.com/meteor-javascript-framework-starter/book)
 1. [The Meteor Testing Manual](http://www.meteortesting.com/)
 1. [Meteor Cookbook](http://meteorgitbook.harp.io/)
@@ -86,36 +87,36 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 ## Books in Other Languages
 
 1. [Discover Meteor - Multilingual](https://www.discovermeteor.com/translations)
-2. `pt-br` | [Meteor: Criando aplicações web real-time com JavaScript](https://casadocodigo.refersion.com/l/d88.3525)
+1. `pt-br` | [Meteor: Criando aplicações web real-time com JavaScript](https://casadocodigo.refersion.com/l/d88.3525)
 
 # Built with Meteor
 
+1. [Made With](http://madewith.meteor.com/) - a list of applications built with meteor
+1. [antichess](http://antichess.meteor.com/) - a chess variant in which the objective of each player is to lose all of his pieces
 1. [Assistant.io](http://assistant.io/) – The Easiest Way to Schedule Meetings
+1. [Cleanio](https://getcleanio.com/) - Laundry and dry cleaning on demand
+1. [CodersTV](http://coderstv.com) - Watch programming videos or broadcast your coder skills with the world
+1. [EtherPOS](http://www.etherpos.com/) - Retail point of sale system.
+1. [Hast](http://hast.me) - an on-the-fly presentation for everyone
 1. [Illustreets](http://illustreets.co.uk/) – England’s best places to live
+1. [Liquid](https://getliquid.io/) - Collect, share, and analyze data
 1. [MathFights](http://mathfights.com/) – Test Your Math Skills In Real-Time Battles
+1. [Meeting Hero](http://www.meetinghero.com/) - Realtime collaborative meeting agenda and minutes, connects to your Google Calendar.
+1. [MixMax](https://mixmax.com) - Apps for Gmail
+1. [Mmmelon](https://www.mmmelon.com) - Collaborative project and document management
+1. [Movienr](http://www.movienr.com/) - social way of discovering movies while engaging with fellow movie addicts
 1. [Pantheon by MIT](http://pantheon.media.mit.edu/) – Mapping Historical Cultural Production
 1. [Pintask](https://pintask.me/) – Task tracker with Kanban board, free for life + Custom extensions
 1. [RalphChat](https://ralphchat.com/) – Web-based and iOS/Android Chat
 1. [Reaction](http://reactioncommerce.com/) – Change the way you think about commerce
-1. [Repeeet](https://repeeet.com/) – making tweet repeating super simple
+1. [Respondly](https://respond.ly/) - Team Inbox for Email & Twitter
+1. [Sedimently](http://sedimently.com/) - Knowledge base for startups without wikicomplications
 1. [Sonic Agile](http://sonicagile.com/) – A free agile Project Management tool that includes a real-time Backlog, Kanban, and Burndown Charts
 1. [TangoEdit](http://www.tangoedit.com/) – Collaborative, cloud-based video editing
+1. [Teamput](https://teamput.com/) - Simple and uniquely effective sticky-note app that gives every team member a voice in idea generation.
+1. [Telescope](http://telesc.pe/) - a social news platform
 1. [Verso](http://percolatestudio.com/case-studies/verso) – The future of classrooms powered by Meteor & Phonegap
-1. [CodersTV](http://coderstv.com) - Watch programming videos or broadcast your coder skills with the world
-1. [Respondly](https://respond.ly/) - Team Inbox for Email & Twitter
-1. [Cleanio](https://getcleanio.com/) - Laundry and dry cleaning on demand
-1. [Sedimently](http://sedimently.com/) - Knowledge base for startups without wikicomplications
-1. [Liquid](https://getliquid.io/) - Collect, share, and analyze data
-2. [Hast](https://github.com/zhouzhuojie/hast) - an on-the-fly presentation for everyone
-3. [Telescope](http://telesc.pe/) - a social news platform
-4. [Made With](http://madewith.meteor.com/) - a list of applications built with meteor
-5. [antichess](http://antichess.meteor.com/) - a chess variant in which the objective of each player is to lose all of his pieces
-6. [Movienr](http://www.movienr.com/) - social way of discovering movies while engaging with fellow movie addicts
-7. [Writ](http://writ.bassam.co/) - A Markdown app for mere mortals
-8. [Meeting Hero](http://www.meetinghero.com/) - Realtime collaborative meeting agenda and minutes, connects to your Google Calendar.
-9. [EtherPOS](http://www.etherpos.com/) - Retail point of sale system.
-10. [Meteor URL Shortener](https://github.com/npvn/meteor-url-shortener) - Open-source URL shortening app with several good practices in place
-11. [Teamput](https://teamput.com/) - Simple and uniquely effective sticky-note app that gives every team member a voice in idea generation.
+1. [Writ](http://writ.bassam.co/) - A Markdown app for mere mortals
 
 # Community
 
@@ -128,18 +129,20 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [Single Page Web Apps with Meteor](https://tutsplus.com/course/building-single-page-web-application-with-meteor-js/)
 1. [Meteor.js Fundamentals for Single Page Applications](http://pluralsight.com/training/courses/TableOfContents?courseName=meteorjs-fundamentals-single-page-apps&highlight=john-sonmez_meteor-spa-m2-magic*8,4,7,5,6,0,1,2,3,9,10,12,13,14,15,16,11!john-sonmez_meteor-spa-m5-beyond*2,9,3,7,0,1,4,6,10,11,12,13,14,15,16,17,8!john-sonmez_meteor-spa-m1-intro*4,6,11,13,12,14,0,1,3,5,7,8,9,10,15,2!john-sonmez_meteor-spa-m3-app*5,0,2,3,4,6,7,12,17,19,20,8,9,11,13,14,16,18,1,10,15!john-sonmez_meteor-spa-m4-extend*16,17,18,0,2,3,5,12,14,15,19,21,22,4,6,7,8,10,11,13,20,1,9#meteor-spa-m2-magic)
 1. [Build a Multi-Player Card Game With Meteor](http://code.tutsplus.com/courses/build-a-multi-player-card-game-with-meteor)
-2. [BulletProof Meteor - Build fast and efficient Meteor app](https://bulletproofmeteor.com/)
+1. [BulletProof Meteor - Build fast and efficient Meteor app](https://bulletproofmeteor.com/)
 
 # Learn with Code
 
-1. [meteor-boilerplate](https://github.com/matteodem/meteor-boilerplate)
 1. [BrowPie](https://github.com/alanshaw/meteor-browpie) - shows visitor stats as Browser charts
 1. [crowducate.me](https://github.com/Crowducate/crowducate.me) – an open education platform
+1. [Hast](https://github.com/zhouzhuojie/hast) - an on-the-fly presentation for everyone
+1. [Meteor source code!](https://github.com/meteor/meteor)
+1. [Meteor URL Shortener](https://github.com/npvn/meteor-url-shortener) - Open-source URL shortening app with several good practices in place
+1. [meteor-boilerplate](https://github.com/matteodem/meteor-boilerplate)
 1. [Reaction](https://github.com/ongoworks/reaction) - full e-commerce solution
 1. [Repeeet](https://github.com/meteorhacks/repeeet) - making repet tweeting super simple
 1. [Telescope](https://github.com/TelescopeJS/Telescope) -  a hacker-news clone built entirely on Meteor
 1. [Weworkmeteor](https://github.com/nate-strauser/wework) - a Meteor Job Board and Expert Directory
-1. [Meteor source code!](https://github.com/meteor/meteor)
 
 # News
 
@@ -154,13 +157,13 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 # Screencasts
 
 1. [Diving into Meteor.JS](https://www.youtube.com/playlist?list=PLWOwgptSFZ6SyW3D4KsuAbDrTWWz0Hqa2)
-1. [Lunch and Hack](https://www.youtube.com/playlist?list=PLT6qiYgD0zz2JWuMkbsOiuvM2plDn536r)
 1. [Evented Mind](https://www.eventedmind.com/feed?view=all)
-1. [Meteor Learning](https://www.youtube.com/playlist?list=PLKfAG4yMwKkRT4SVt_j04AnZSKcdYPFgx) or [here](https://www.youtube.com/user/geomck1967/videos)
 1. [How to Debug a Meteor.js Application](https://www.youtube.com/watch?v=KLtkRQ44LYw)
-1. [Meteor 101](https://www.youtube.com/playlist?list=PLrpWosQQQmVZo0wLCszylpbMa_YOU8e_B)
+1. [Lunch and Hack](https://www.youtube.com/playlist?list=PLT6qiYgD0zz2JWuMkbsOiuvM2plDn536r)
 1. [Meteor - Chat Room Tutorial](http://vimeo.com/40300075)
-2. [Meteor's site Screencast](https://www.meteor.com/screencast)
+1. [Meteor 101](https://www.youtube.com/playlist?list=PLrpWosQQQmVZo0wLCszylpbMa_YOU8e_B)
+1. [Meteor Learning](https://www.youtube.com/playlist?list=PLKfAG4yMwKkRT4SVt_j04AnZSKcdYPFgx) or [here](https://www.youtube.com/user/geomck1967/videos)
+1. [Meteor's site Screencast](https://www.meteor.com/screencast)
 
 # Slides
 
@@ -189,9 +192,9 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 
 # More Useful Links
 
-1. [Best Learning Resources for Meteor.js](http://yauh.de/articles/376/best-learning-resources-for-meteorjs)
+1. [Best Learning Resources for Meteor.js](https://www.yauh.de/best-learning-resources-for-meteorjs/)
 1. [The Mission of Meteor](https://www.meteor.com/about/mission)
-2. [Meteor's new $11.2 million development budget](https://www.meteor.com/blog/2012/07/25/meteors-new-112-million-development-budget)
+1. [Meteor's new $11.2 million development budget](https://www.meteor.com/blog/2012/07/25/meteors-new-112-million-development-budget)
 1. [The Reactive Manifesto](http://www.reactivemanifesto.org/)
 1. [Meteor's Documentation](http://docs.meteor.com/)
 1. [Unofficial Meteor FAQ](https://github.com/oortcloud/unofficial-meteor-faq)
@@ -211,5 +214,5 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [Meteor Resources: Learning and Everyday](http://trevorgeise.svbtle.com/meteor-resources-learning-and-everyday)
 1. [Laika - testing framework for Meteor](http://arunoda.github.io/laika/)
 1. [RTD - The Meteor Test Runner](http://xolvio.github.io/rtd/)
-2. [Useful Meteor Resources](https://www.discovermeteor.com/blog/useful-meteor-resources/)
-3. [Kadira : Meteor Performance Monitoring Service](https://kadira.io/)
+1. [Useful Meteor Resources](https://www.discovermeteor.com/blog/useful-meteor-resources/)
+1. [Kadira : Meteor Performance Monitoring Service](https://kadira.io/)
