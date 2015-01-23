@@ -190,7 +190,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 
 # More Useful Links
 
-1. [Best Learning Resources for Meteor.js](http://yauh.de/articles/376/best-learning-resources-for-meteorjs)
+1. [Best Learning Resources for Meteor.js](https://www.yauh.de/best-learning-resources-for-meteorjs/)
 1. [The Mission of Meteor](https://www.meteor.com/about/mission)
 1. [Meteor's new $11.2 million development budget](https://www.meteor.com/blog/2012/07/25/meteors-new-112-million-development-budget)
 1. [The Reactive Manifesto](http://www.reactivemanifesto.org/)
