@@ -91,32 +91,32 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 
 # Built with Meteor
 
+1. [antichess](http://antichess.meteor.com/) - a chess variant in which the objective of each player is to lose all of his pieces
 1. [Assistant.io](http://assistant.io/) – The Easiest Way to Schedule Meetings
+1. [Cleanio](https://getcleanio.com/) - Laundry and dry cleaning on demand
+1. [CodersTV](http://coderstv.com) - Watch programming videos or broadcast your coder skills with the world
+1. [EtherPOS](http://www.etherpos.com/) - Retail point of sale system.
+1. [Hast](https://github.com/zhouzhuojie/hast) - an on-the-fly presentation for everyone
 1. [Illustreets](http://illustreets.co.uk/) – England’s best places to live
+1. [Liquid](https://getliquid.io/) - Collect, share, and analyze data
+1. [Made With](http://madewith.meteor.com/) - a list of applications built with meteor
 1. [MathFights](http://mathfights.com/) – Test Your Math Skills In Real-Time Battles
+1. [Meeting Hero](http://www.meetinghero.com/) - Realtime collaborative meeting agenda and minutes, connects to your Google Calendar.
+1. [Meteor URL Shortener](https://github.com/npvn/meteor-url-shortener) - Open-source URL shortening app with several good practices in place
+1. [Movienr](http://www.movienr.com/) - social way of discovering movies while engaging with fellow movie addicts
 1. [Pantheon by MIT](http://pantheon.media.mit.edu/) – Mapping Historical Cultural Production
 1. [Pintask](https://pintask.me/) – Task tracker with Kanban board, free for life + Custom extensions
 1. [RalphChat](https://ralphchat.com/) – Web-based and iOS/Android Chat
 1. [Reaction](http://reactioncommerce.com/) – Change the way you think about commerce
 1. [Repeeet](https://repeeet.com/) – making tweet repeating super simple
+1. [Respondly](https://respond.ly/) - Team Inbox for Email & Twitter
+1. [Sedimently](http://sedimently.com/) - Knowledge base for startups without wikicomplications
 1. [Sonic Agile](http://sonicagile.com/) – A free agile Project Management tool that includes a real-time Backlog, Kanban, and Burndown Charts
 1. [TangoEdit](http://www.tangoedit.com/) – Collaborative, cloud-based video editing
-1. [Verso](http://percolatestudio.com/case-studies/verso) – The future of classrooms powered by Meteor & Phonegap
-1. [CodersTV](http://coderstv.com) - Watch programming videos or broadcast your coder skills with the world
-1. [Respondly](https://respond.ly/) - Team Inbox for Email & Twitter
-1. [Cleanio](https://getcleanio.com/) - Laundry and dry cleaning on demand
-1. [Sedimently](http://sedimently.com/) - Knowledge base for startups without wikicomplications
-1. [Liquid](https://getliquid.io/) - Collect, share, and analyze data
-1. [Hast](https://github.com/zhouzhuojie/hast) - an on-the-fly presentation for everyone
-1. [Telescope](http://telesc.pe/) - a social news platform
-1. [Made With](http://madewith.meteor.com/) - a list of applications built with meteor
-1. [antichess](http://antichess.meteor.com/) - a chess variant in which the objective of each player is to lose all of his pieces
-1. [Movienr](http://www.movienr.com/) - social way of discovering movies while engaging with fellow movie addicts
-1. [Writ](http://writ.bassam.co/) - A Markdown app for mere mortals
-1. [Meeting Hero](http://www.meetinghero.com/) - Realtime collaborative meeting agenda and minutes, connects to your Google Calendar.
-1. [EtherPOS](http://www.etherpos.com/) - Retail point of sale system.
-1. [Meteor URL Shortener](https://github.com/npvn/meteor-url-shortener) - Open-source URL shortening app with several good practices in place
 1. [Teamput](https://teamput.com/) - Simple and uniquely effective sticky-note app that gives every team member a voice in idea generation.
+1. [Telescope](http://telesc.pe/) - a social news platform
+1. [Verso](http://percolatestudio.com/case-studies/verso) – The future of classrooms powered by Meteor & Phonegap
+1. [Writ](http://writ.bassam.co/) - A Markdown app for mere mortals
 
 # Community
 
