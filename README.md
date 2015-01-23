@@ -91,24 +91,24 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 
 # Built with Meteor
 
+1. [Made With](http://madewith.meteor.com/) - a list of applications built with meteor
 1. [antichess](http://antichess.meteor.com/) - a chess variant in which the objective of each player is to lose all of his pieces
 1. [Assistant.io](http://assistant.io/) – The Easiest Way to Schedule Meetings
 1. [Cleanio](https://getcleanio.com/) - Laundry and dry cleaning on demand
 1. [CodersTV](http://coderstv.com) - Watch programming videos or broadcast your coder skills with the world
 1. [EtherPOS](http://www.etherpos.com/) - Retail point of sale system.
-1. [Hast](https://github.com/zhouzhuojie/hast) - an on-the-fly presentation for everyone
+1. [Hast](http://hast.me) - an on-the-fly presentation for everyone
 1. [Illustreets](http://illustreets.co.uk/) – England’s best places to live
 1. [Liquid](https://getliquid.io/) - Collect, share, and analyze data
-1. [Made With](http://madewith.meteor.com/) - a list of applications built with meteor
 1. [MathFights](http://mathfights.com/) – Test Your Math Skills In Real-Time Battles
 1. [Meeting Hero](http://www.meetinghero.com/) - Realtime collaborative meeting agenda and minutes, connects to your Google Calendar.
-1. [Meteor URL Shortener](https://github.com/npvn/meteor-url-shortener) - Open-source URL shortening app with several good practices in place
+1. [MixMax](https://mixmax.com) - Apps for Gmail
+1. [Mmmelon](https://www.mmmelon.com) - Collaborative project and document management
 1. [Movienr](http://www.movienr.com/) - social way of discovering movies while engaging with fellow movie addicts
 1. [Pantheon by MIT](http://pantheon.media.mit.edu/) – Mapping Historical Cultural Production
 1. [Pintask](https://pintask.me/) – Task tracker with Kanban board, free for life + Custom extensions
 1. [RalphChat](https://ralphchat.com/) – Web-based and iOS/Android Chat
 1. [Reaction](http://reactioncommerce.com/) – Change the way you think about commerce
-1. [Repeeet](https://repeeet.com/) – making tweet repeating super simple
 1. [Respondly](https://respond.ly/) - Team Inbox for Email & Twitter
 1. [Sedimently](http://sedimently.com/) - Knowledge base for startups without wikicomplications
 1. [Sonic Agile](http://sonicagile.com/) – A free agile Project Management tool that includes a real-time Backlog, Kanban, and Burndown Charts
@@ -133,14 +133,16 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 
 # Learn with Code
 
-1. [meteor-boilerplate](https://github.com/matteodem/meteor-boilerplate)
 1. [BrowPie](https://github.com/alanshaw/meteor-browpie) - shows visitor stats as Browser charts
 1. [crowducate.me](https://github.com/Crowducate/crowducate.me) – an open education platform
+1. [Hast](https://github.com/zhouzhuojie/hast) - an on-the-fly presentation for everyone
+1. [Meteor source code!](https://github.com/meteor/meteor)
+1. [Meteor URL Shortener](https://github.com/npvn/meteor-url-shortener) - Open-source URL shortening app with several good practices in place
+1. [meteor-boilerplate](https://github.com/matteodem/meteor-boilerplate)
 1. [Reaction](https://github.com/ongoworks/reaction) - full e-commerce solution
 1. [Repeeet](https://github.com/meteorhacks/repeeet) - making repet tweeting super simple
 1. [Telescope](https://github.com/TelescopeJS/Telescope) -  a hacker-news clone built entirely on Meteor
 1. [Weworkmeteor](https://github.com/nate-strauser/wework) - a Meteor Job Board and Expert Directory
-1. [Meteor source code!](https://github.com/meteor/meteor)
 
 # News
 
@@ -155,12 +157,12 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 # Screencasts
 
 1. [Diving into Meteor.JS](https://www.youtube.com/playlist?list=PLWOwgptSFZ6SyW3D4KsuAbDrTWWz0Hqa2)
-1. [Lunch and Hack](https://www.youtube.com/playlist?list=PLT6qiYgD0zz2JWuMkbsOiuvM2plDn536r)
 1. [Evented Mind](https://www.eventedmind.com/feed?view=all)
-1. [Meteor Learning](https://www.youtube.com/playlist?list=PLKfAG4yMwKkRT4SVt_j04AnZSKcdYPFgx) or [here](https://www.youtube.com/user/geomck1967/videos)
 1. [How to Debug a Meteor.js Application](https://www.youtube.com/watch?v=KLtkRQ44LYw)
-1. [Meteor 101](https://www.youtube.com/playlist?list=PLrpWosQQQmVZo0wLCszylpbMa_YOU8e_B)
+1. [Lunch and Hack](https://www.youtube.com/playlist?list=PLT6qiYgD0zz2JWuMkbsOiuvM2plDn536r)
 1. [Meteor - Chat Room Tutorial](http://vimeo.com/40300075)
+1. [Meteor 101](https://www.youtube.com/playlist?list=PLrpWosQQQmVZo0wLCszylpbMa_YOU8e_B)
+1. [Meteor Learning](https://www.youtube.com/playlist?list=PLKfAG4yMwKkRT4SVt_j04AnZSKcdYPFgx) or [here](https://www.youtube.com/user/geomck1967/videos)
 1. [Meteor's site Screencast](https://www.meteor.com/screencast)
 
 # Slides
