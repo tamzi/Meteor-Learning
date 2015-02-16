@@ -84,6 +84,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [The Meteor Testing Manual](http://www.meteortesting.com/)
 1. [Meteor Cookbook](http://meteorgitbook.harp.io/)
 1. [Building Single-page Web Apps with Meteor](https://www.packtpub.com/web-development/building-single-page-web-apps-meteor)
+1. [Your First Meteor Application](http://meteortips.com/)
 
 ## Books in Other Languages
 
