@@ -122,7 +122,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 
 # Community
 
-1. [Meteor Google Group](https://groups.google.com/forum/?fromgroups#!forum/meteor-talk)
+1. [Meteor Forum](https://forums.meteor.com/)
 1. [IRC Channel on freenode](http://meteor.com/irc)
 1. [Meteor on Twitter](https://twitter.com/meteorjs)
 1. [Learn Meteor Properly - Facebook Group](https://www.facebook.com/groups/1498505377066142/)
