@@ -133,6 +133,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [Meteor.js Fundamentals for Single Page Applications](http://pluralsight.com/training/courses/TableOfContents?courseName=meteorjs-fundamentals-single-page-apps&highlight=john-sonmez_meteor-spa-m2-magic*8,4,7,5,6,0,1,2,3,9,10,12,13,14,15,16,11!john-sonmez_meteor-spa-m5-beyond*2,9,3,7,0,1,4,6,10,11,12,13,14,15,16,17,8!john-sonmez_meteor-spa-m1-intro*4,6,11,13,12,14,0,1,3,5,7,8,9,10,15,2!john-sonmez_meteor-spa-m3-app*5,0,2,3,4,6,7,12,17,19,20,8,9,11,13,14,16,18,1,10,15!john-sonmez_meteor-spa-m4-extend*16,17,18,0,2,3,5,12,14,15,19,21,22,4,6,7,8,10,11,13,20,1,9#meteor-spa-m2-magic)
 1. [Build a Multi-Player Card Game With Meteor](http://code.tutsplus.com/courses/build-a-multi-player-card-game-with-meteor)
 1. [BulletProof Meteor - Build fast and efficient Meteor app](https://bulletproofmeteor.com/)
+1. [Meteor For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHECNl9I8gwos-hEfFrer7TV)
 
 # Learn with Code
 
