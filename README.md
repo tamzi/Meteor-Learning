@@ -196,6 +196,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [meteor.js by Roger Zurawicki](https://www.youtube.com/watch?v=5URzpBPQ864)
 1. [SFJS #23: Functional Programming and Meteor.js](https://www.youtube.com/watch?v=HAcN3JyQoyY)
 1. [TakeOff 2013 - Meteor.JS - Geoff Schmidt](https://www.youtube.com/watch?v=4mtLCjhxKAs)
+1. [Meteor for Mobile](https://www.youtube.com/watch?v=4dJLPLWMImw)
 
 # More Useful Links
 
