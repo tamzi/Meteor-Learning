@@ -75,6 +75,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [Bullet-proof Meteor applications with Velocity, Unit Testing, Integration Testing and Jasmine](https://doctorllama.wordpress.com/2014/09/22/bullet-proof-internationalised-meteor-applications-with-velocity-unit-testing-integration-testing-and-jasmine/)
 1. [How to test your angular application within meteor](http://farla.io/2015/05/11/unittesting-angular-meteor.html)
 1. [Why Front-End Developers should try to learn Meteor](http://julian.io/why-front-end-developers-should-try-to-learn-meteor/)
+1. [How to create a blog in Meteor (NOT for complete beginners!)](http://naturaily.com/blog/post/how-to-create-blog-in-meteor-not-for-complete-beginners)
 
 # Books
 
