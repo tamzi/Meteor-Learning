@@ -76,6 +76,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [How to test your angular application within meteor](http://farla.io/2015/05/11/unittesting-angular-meteor.html)
 1. [Why Front-End Developers should try to learn Meteor](http://julian.io/why-front-end-developers-should-try-to-learn-meteor/)
 1. [How to create a blog in Meteor (NOT for complete beginners!)](http://naturaily.com/blog/post/how-to-create-blog-in-meteor-not-for-complete-beginners)
+1. [Things I wish someone had told me when I first started learning Meteor.js](https://adilapapaya.wordpress.com/2014/03/12/things-i-wish-someone-told-me-when-i-first-started-learning-meteor-js/)
 
 # Books
 
