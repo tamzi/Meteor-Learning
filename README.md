@@ -77,6 +77,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [Why Front-End Developers should try to learn Meteor](http://julian.io/why-front-end-developers-should-try-to-learn-meteor/)
 1. [How to create a blog in Meteor (NOT for complete beginners!)](http://naturaily.com/blog/post/how-to-create-blog-in-meteor-not-for-complete-beginners)
 1. [Things I wish someone had told me when I first started learning Meteor.js](https://adilapapaya.wordpress.com/2014/03/12/things-i-wish-someone-told-me-when-i-first-started-learning-meteor-js/)
+1. [Ternopiljs courses by JSSolutions](http://jssolutionsdev.com/ternopiljs)
 
 # Books
 
@@ -125,6 +126,8 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [Telescope](http://telesc.pe/) - a social news platform
 1. [Verso](http://percolatestudio.com/case-studies/verso) – The future of classrooms powered by Meteor & Phonegap
 1. [Writ](http://writ.bassam.co/) - A Markdown app for mere mortals
+1. [DataForce](http://getdataforce.com/) - the cloud software analytics that helps you to produce insights, so you can focus on what matters to you.
+1. [GID](http://gid.jssolutionsdev.com/) - Task manager.
 
 # Community
 
