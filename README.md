@@ -128,6 +128,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [Writ](http://writ.bassam.co/) - A Markdown app for mere mortals
 1. [DataForce](http://getdataforce.com/) - the cloud software analytics that helps you to produce insights, so you can focus on what matters to you.
 1. [GID](http://gid.jssolutionsdev.com/) - Task manager.
+1. [Presenteract](https://github.com/zeroasterisk/Presenteract) - MeteorJS Application to create and run interactive presentations
 
 # Community
 
