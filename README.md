@@ -78,6 +78,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [How to create a blog in Meteor (NOT for complete beginners!)](http://naturaily.com/blog/post/how-to-create-blog-in-meteor-not-for-complete-beginners)
 1. [Things I wish someone had told me when I first started learning Meteor.js](https://adilapapaya.wordpress.com/2014/03/12/things-i-wish-someone-told-me-when-i-first-started-learning-meteor-js/)
 1. [Ternopiljs courses by JSSolutions](http://jssolutionsdev.com/ternopiljs)
+1. [Meteor Capture](http://meteorcapture.com/) (many articles)
 
 # Books
 
