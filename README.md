@@ -159,6 +159,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [Repeeet](https://github.com/meteorhacks/repeeet) - making repet tweeting super simple
 1. [Telescope](https://github.com/TelescopeJS/Telescope) -  a hacker-news clone built entirely on Meteor
 1. [Weworkmeteor](https://github.com/nate-strauser/wework) - a Meteor Job Board and Expert Directory
+1. [meteor-react-example](https://github.com/optilude/meteor-react-example) - Skeletal example showing how to integrate Meteor and React  
 
 # News
 
