@@ -131,6 +131,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [DataForce](http://getdataforce.com/) - the cloud software analytics that helps you to produce insights, so you can focus on what matters to you.
 1. [GID](http://gid.jssolutionsdev.com/) - Task manager.
 1. [Presenteract](https://github.com/zeroasterisk/Presenteract) - MeteorJS Application to create and run interactive presentations
+1. [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Complete Open Source Chat Solution
 
 # Community
 
