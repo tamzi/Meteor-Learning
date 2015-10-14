@@ -94,6 +94,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [Meteoric Projects](https://github.com/benstr/meteoric-projects)
 1. [Meteor Tutorial](http://www.meteor-tutorial.org/book/_single-page)
 1. [Pro Meteor: Meteor Internals, Scaling & More](https://meteorhacks.com/ebook/pro-meteor.html?utm_source=devfreebooks&utm_medium=medium&utm_campaign=DevFreeBooks)
+1. [Meteor Explained](https://gumroad.com/l/meteor-explained)
 
 ## Books in Other Languages
 
