@@ -248,3 +248,4 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [Useful Meteor Resources](https://www.discovermeteor.com/blog/useful-meteor-resources/)
 1. [Kadira : Meteor Performance Monitoring Service](https://kadira.io/)
 1. [Blog posts by Josh Owens](http://joshowens.me) 
+1. [The Meteor Chef](https://themeteorchef.com/) 
