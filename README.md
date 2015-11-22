@@ -152,7 +152,8 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [Meteor.js Fundamentals for Single Page Applications](http://pluralsight.com/training/courses/TableOfContents?courseName=meteorjs-fundamentals-single-page-apps&highlight=john-sonmez_meteor-spa-m2-magic*8,4,7,5,6,0,1,2,3,9,10,12,13,14,15,16,11!john-sonmez_meteor-spa-m5-beyond*2,9,3,7,0,1,4,6,10,11,12,13,14,15,16,17,8!john-sonmez_meteor-spa-m1-intro*4,6,11,13,12,14,0,1,3,5,7,8,9,10,15,2!john-sonmez_meteor-spa-m3-app*5,0,2,3,4,6,7,12,17,19,20,8,9,11,13,14,16,18,1,10,15!john-sonmez_meteor-spa-m4-extend*16,17,18,0,2,3,5,12,14,15,19,21,22,4,6,7,8,10,11,13,20,1,9#meteor-spa-m2-magic)
 1. [Build a Multi-Player Card Game With Meteor](http://code.tutsplus.com/courses/build-a-multi-player-card-game-with-meteor)
 1. [BulletProof Meteor - Build fast and efficient Meteor app](https://bulletproofmeteor.com/)
-1. [Meteor For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHECNl9I8gwos-hEfFrer7TV)
+1. [Meteor For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHECNl9I8gwos-hEfFrer7TV) by [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts)
+1. [Intermediate Meteor](https://www.youtube.com/playlist?list=PLLnpHn493BHFYZUSK62aVycgcAouqBt7V) by [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts)
 1. [Mastering Meteor.js](https://mastering.meteorjs.club) - Over 8 hours of video showing you how to build a real-time twitter clone!
 
 # Learn with Code
@@ -192,7 +193,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [Meteor 101](https://www.youtube.com/playlist?list=PLrpWosQQQmVZo0wLCszylpbMa_YOU8e_B)
 1. [Meteor Learning](https://www.youtube.com/playlist?list=PLKfAG4yMwKkRT4SVt_j04AnZSKcdYPFgx) or [here](https://www.youtube.com/user/geomck1967/videos)
 1. [Meteor's site Screencast](https://www.meteor.com/screencast)
-1. [Meteor Club Apprentice Series](https://www.youtube.com/playlist?list=PLtujUkEY1Jlq6mVFq3wBTntLzW3EKi9lS) 
+1. [Meteor Club Apprentice Series](https://www.youtube.com/playlist?list=PLtujUkEY1Jlq6mVFq3wBTntLzW3EKi9lS)
 
 # Slides
 
@@ -219,7 +220,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [SFJS #23: Functional Programming and Meteor.js](https://www.youtube.com/watch?v=HAcN3JyQoyY)
 1. [TakeOff 2013 - Meteor.JS - Geoff Schmidt](https://www.youtube.com/watch?v=4mtLCjhxKAs)
 1. [Meteor for Mobile](https://www.youtube.com/watch?v=4dJLPLWMImw)
-1. [Talks given by Josh Owens about Meteor.js](https://www.youtube.com/playlist?list=PLtujUkEY1JlpoTvEvSnjXytR3G-43rBbi) 
+1. [Talks given by Josh Owens about Meteor.js](https://www.youtube.com/playlist?list=PLtujUkEY1JlpoTvEvSnjXytR3G-43rBbi)
 
 # More Useful Links
 
@@ -247,5 +248,5 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [RTD - The Meteor Test Runner](http://xolvio.github.io/rtd/)
 1. [Useful Meteor Resources](https://www.discovermeteor.com/blog/useful-meteor-resources/)
 1. [Kadira : Meteor Performance Monitoring Service](https://kadira.io/)
-1. [Blog posts by Josh Owens](http://joshowens.me) 
-1. [The Meteor Chef](https://themeteorchef.com/) 
+1. [Blog posts by Josh Owens](http://joshowens.me)
+1. [The Meteor Chef](https://themeteorchef.com/)
