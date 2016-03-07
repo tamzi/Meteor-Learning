@@ -125,6 +125,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [RalphChat](https://ralphchat.com/) – Web-based and iOS/Android Chat
 1. [Reaction](http://reactioncommerce.com/) – Change the way you think about commerce
 1. [Respondly](https://respond.ly/) - Team Inbox for Email & Twitter
+2. [sChat](https://www.simplechat.support/) - Open Source Live Chat App
 1. [Sedimently](http://sedimently.com/) - Knowledge base for startups without wikicomplications
 1. [Sonic Agile](http://sonicagile.com/) – A free agile Project Management tool that includes a real-time Backlog, Kanban, and Burndown Charts
 1. [TangoEdit](http://www.tangoedit.com/) – Collaborative, cloud-based video editing
@@ -167,6 +168,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [meteor-boilerplate](https://github.com/matteodem/meteor-boilerplate)
 1. [Reaction](https://github.com/ongoworks/reaction) - full e-commerce solution
 1. [Repeeet](https://github.com/meteorhacks/repeeet) - making repet tweeting super simple
+2. [sChat](https://github.com/juliancwirko/s-chat-app) - Open Source Live Chat App
 1. [Telescope](https://github.com/TelescopeJS/Telescope) -  a hacker-news clone built entirely on Meteor
 1. [Weworkmeteor](https://github.com/nate-strauser/wework) - a Meteor Job Board and Expert Directory
 1. [meteor-react-example](https://github.com/optilude/meteor-react-example) - Skeletal example showing how to integrate Meteor and React  
