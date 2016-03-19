@@ -83,6 +83,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [Getting started with Meteor.js](http://joshowens.me/getting-started-with-meteor-js/)
 1. [What is Meteor?](http://joshowens.me/what-is-meteor-js/)
 2. [Meteor Accounts based on sId package](http://julian.io/meteor-accounts-based-on-sid-package/)
+3. [How do I host multiple Meteor apps on one DigitalOcean Droplet](http://julian.io/how-do-i-host-multiple-meteor-apps-on-one-digitalocean-droplet/)
 
 # Books
 
