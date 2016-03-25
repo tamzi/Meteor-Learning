@@ -87,19 +87,20 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 
 # Books
 
+1. [Building Single-page Web Apps with Meteor](https://www.packtpub.com/web-development/building-single-page-web-apps-meteor)
 1. [Discover Meteor](http://www.discovermeteor.com/)
 1. [Getting Started with Meteor.js JavaScript Framework](http://www.packtpub.com/getting-started-with-meteor-javascript-framework/book)
-1. [Meteor in Action](http://www.meteorinaction.com/)
 1. [Instant Meteor JavaScript Framework Starter](http://www.packtpub.com/meteor-javascript-framework-starter/book)
-1. [The Meteor Testing Manual](http://www.meteortesting.com/)
+1. [Mastering MeteorJS Application Development](https://www.packtpub.com/web-development/building-single-page-web-apps-meteor)
 1. [Meteor Cookbook](http://meteorgitbook.harp.io/)
-1. [Building Single-page Web Apps with Meteor](https://www.packtpub.com/web-development/building-single-page-web-apps-meteor)
-1. [Your First Meteor Application](http://meteortips.com/)
+1. [Meteor Explained](https://gumroad.com/l/meteor-explained)
+1. [Meteor in Action](http://www.meteorinaction.com/)
 1. [Meteoric Projects](https://github.com/benstr/meteoric-projects)
+1. [Meteor + React](http://kenrogers.co/meteor-react/)
 1. [Meteor Tutorial](http://www.meteor-tutorial.org/book/_single-page)
 1. [Pro Meteor: Meteor Internals, Scaling & More](https://meteorhacks.com/ebook/pro-meteor.html?utm_source=devfreebooks&utm_medium=medium&utm_campaign=DevFreeBooks)
-1. [Meteor Explained](https://gumroad.com/l/meteor-explained)
-1. [Meteor + React](http://kenrogers.co/meteor-react/)
+1. [The Meteor Testing Manual](http://www.meteortesting.com/)
+1. [Your First Meteor Application](http://meteortips.com/)
 
 ## Books in Other Languages
 
