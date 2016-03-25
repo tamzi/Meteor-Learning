@@ -91,7 +91,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [Discover Meteor](http://www.discovermeteor.com/)
 1. [Getting Started with Meteor.js JavaScript Framework](http://www.packtpub.com/getting-started-with-meteor-javascript-framework/book)
 1. [Instant Meteor JavaScript Framework Starter](http://www.packtpub.com/meteor-javascript-framework-starter/book)
-1. [Mastering MeteorJS Application Development](https://www.packtpub.com/web-development/building-single-page-web-apps-meteor)
+1. [Mastering MeteorJS Application Development](https://www.packtpub.com/web-development/mastering-meteorjs-application-development)
 1. [Meteor Cookbook](http://meteorgitbook.harp.io/)
 1. [Meteor Explained](https://gumroad.com/l/meteor-explained)
 1. [Meteor in Action](http://www.meteorinaction.com/)
