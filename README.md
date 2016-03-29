@@ -161,7 +161,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [Intermediate Meteor](https://www.youtube.com/playlist?list=PLLnpHn493BHFYZUSK62aVycgcAouqBt7V) by [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts)
 1. [Meteor & React](https://www.youtube.com/watch?v=ootKAwnQiP4) by [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts)
 1. [Mastering Meteor.js](https://mastering.meteorjs.club) - Over 8 hours of video showing you how to build a real-time twitter clone!
-1. [Introduction to Meteor.js Development](https://www.coursera.org/learn/meteor-development) 
+1. [Introduction to Meteor.js Development](https://www.coursera.org/learn/meteor-development)
 
 # Learn with Code
 
@@ -235,6 +235,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 
 1. [Best Learning Resources for Meteor.js](https://www.yauh.de/best-learning-resources-for-meteorjs/)
 1. [The Mission of Meteor](https://www.meteor.com/about/mission)
+1. [Meteor's new $11.2 million development budget](https://www.meteor.com/blog/2012/07/25/meteors-new-112-million-development-budget)
 1. [The Reactive Manifesto](http://www.reactivemanifesto.org/)
 1. [Meteor's Documentation](http://docs.meteor.com/)
 1. [Unofficial Meteor FAQ](https://github.com/oortcloud/unofficial-meteor-faq)
