@@ -28,6 +28,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 
 # Articles & Tutorials
 
+1. [The official Meteor guide (1.3)](http://guide.meteor.com/)
 1. [Meteor.js - The Perfect Match For Lean Startups](http://www.manuel-schoebel.com/blog/meteorjs-the-perfect-match-for-lean-startups)
 1. [Why web beginners should start with Meteor](https://www.meteor.com/blog/2013/12/13/why-web-beginners-should-start-with-meteor)
 1. [Learn Meteor Fundamentals and Best Practices](http://andrewscala.com/meteor/)
@@ -139,6 +140,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [GID](http://gid.jssolutionsdev.com/) - Task manager.
 1. [Presenteract](https://github.com/zeroasterisk/Presenteract) - MeteorJS Application to create and run interactive presentations
 1. [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Complete Open Source Chat Solution
+1. [Classcraft](http://www.classcraft.com/de/) - Turn Class into an Adventure
 
 
 # Community
@@ -157,6 +159,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [BulletProof Meteor - Build fast and efficient Meteor app](https://bulletproofmeteor.com/)
 1. [Meteor For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHECNl9I8gwos-hEfFrer7TV) by [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts)
 1. [Intermediate Meteor](https://www.youtube.com/playlist?list=PLLnpHn493BHFYZUSK62aVycgcAouqBt7V) by [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts)
+1. [Meteor & React](https://www.youtube.com/watch?v=ootKAwnQiP4) by [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts)
 1. [Mastering Meteor.js](https://mastering.meteorjs.club) - Over 8 hours of video showing you how to build a real-time twitter clone!
 1. [Introduction to Meteor.js Development](https://www.coursera.org/learn/meteor-development) 
 
@@ -226,12 +229,12 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [TakeOff 2013 - Meteor.JS - Geoff Schmidt](https://www.youtube.com/watch?v=4mtLCjhxKAs)
 1. [Meteor for Mobile](https://www.youtube.com/watch?v=4dJLPLWMImw)
 1. [Talks given by Josh Owens about Meteor.js](https://www.youtube.com/playlist?list=PLtujUkEY1JlpoTvEvSnjXytR3G-43rBbi)
+1. [Hacking Meteor - A talk about Meteor security](https://www.youtube.com/watch?v=tKuFYD-rrCM)
 
 # More Useful Links
 
 1. [Best Learning Resources for Meteor.js](https://www.yauh.de/best-learning-resources-for-meteorjs/)
 1. [The Mission of Meteor](https://www.meteor.com/about/mission)
-1. [Meteor's new $11.2 million development budget](https://www.meteor.com/blog/2012/07/25/meteors-new-112-million-development-budget)
 1. [The Reactive Manifesto](http://www.reactivemanifesto.org/)
 1. [Meteor's Documentation](http://docs.meteor.com/)
 1. [Unofficial Meteor FAQ](https://github.com/oortcloud/unofficial-meteor-faq)
@@ -243,9 +246,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [meteor-phonegap](https://github.com/guaka/meteor-phonegap)
 1. [MongoDB Manual](http://docs.mongodb.org/manual/)
 1. [Meteor Cookbook](https://github.com/awatson1978/meteor-cookbook)
-1. [Meteor CheatSheet](http://journal.gentlenode.com/meteor-5-cheatsheet/)
 1. [We Work Meteor - job board and community space for users of the Meteor](http://www.weworkmeteor.com/)
-1. [Meteor Jobs](https://twitter.com/meteorjobs)
 1. [METEOR #4: BEST RESSOURCES TO BECOME A MASTER](http://journal.gentlenode.com/meteor-4-best-meteor-ressources/)
 1. [Discovering Meteor Blog](https://www.discovermeteor.com/blog)
 1. [Meteor Resources: Learning and Everyday](http://trevorgeise.svbtle.com/meteor-resources-learning-and-everyday)
