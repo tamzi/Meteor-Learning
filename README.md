@@ -41,7 +41,6 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [Entering the Atmosphere with Meteor.js](http://www.keysolutions.com/blogs/kenyee.nsf/d6plinks/KKYE-94VUVQ)
 1. [Meteor.js Iron Router Filters, Before and After Hooks](http://www.manuel-schoebel.com/blog/meteorjs-iron-router-filters-before-and-after-hooks)
 1. [Why Is My Meteor App Not Updating Reactively?](http://robertdickert.com/blog/2013/11/14/why-is-my-meteor-app-not-updating-reactively/)
-1. [LIVEBUS: THEBUS VIS WITH METEOR AND D3](http://pasdechocolat.com/2013/07/20/livebus-with-meteor-and-d3/)
 1. [Meteor is F***ing Awesome](https://medium.com/meteor-news/a28ac7d30e2d)
 1. [The Wonderful Duo — Using Meteor and AngularJS Together](https://medium.com/web-dev/4d603a4651bf)
 1. [Why Meteor will kill Ruby on Rails](http://blog.differential.com/meteor-killin-rails/)
