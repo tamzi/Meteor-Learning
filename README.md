@@ -165,6 +165,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [Mastering Meteor.js](https://mastering.meteorjs.club) - Over 8 hours of video showing you how to build a real-time twitter clone!
 1. [Introduction to Meteor.js Development](https://www.coursera.org/learn/meteor-development)
 1. [Build Pinterest with Meteor](https://www.codeupstart.com/project/build-pinterest-with-meteor)
+1. [Meteor and React for Realtime Apps by Stephen Grider](https://www.udemy.com/meteor-react-tutorial/)
 
 # Learn with Code
 
