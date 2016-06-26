@@ -223,7 +223,6 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 # More Useful Links
 
 1. [Best Learning Resources for Meteor.js](https://www.yauh.de/best-learning-resources-for-meteorjs/)
-1. [The Mission of Meteor](https://www.meteor.com/about/mission)
 1. [Meteor's new $11.2 million development budget](https://www.meteor.com/blog/2012/07/25/meteors-new-112-million-development-budget)
 1. [The Reactive Manifesto](http://www.reactivemanifesto.org/)
 1. [Meteor's Documentation](http://docs.meteor.com/)
@@ -237,12 +236,10 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [MongoDB Manual](http://docs.mongodb.org/manual/)
 1. [Meteor Cookbook](https://github.com/awatson1978/meteor-cookbook)
 1. [We Work Meteor - job board and community space for users of the Meteor](http://www.weworkmeteor.com/)
-1. [METEOR #4: BEST RESSOURCES TO BECOME A MASTER](http://journal.gentlenode.com/meteor-4-best-meteor-ressources/)
 1. [Discovering Meteor Blog](https://www.discovermeteor.com/blog)
 1. [Meteor Resources: Learning and Everyday](http://trevorgeise.svbtle.com/meteor-resources-learning-and-everyday)
 1. [Laika - testing framework for Meteor](http://arunoda.github.io/laika/)
 1. [RTD - The Meteor Test Runner](http://xolvio.github.io/rtd/)
-1. [Useful Meteor Resources](https://www.discovermeteor.com/blog/useful-meteor-resources/)
 1. [Kadira : Meteor Performance Monitoring Service](https://kadira.io/)
 1. [Blog posts by Josh Owens](http://joshowens.me)
 1. [The Meteor Chef](https://themeteorchef.com/)
