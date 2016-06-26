@@ -107,8 +107,6 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [antichess](https://github.com/bojan88/antichess) - a chess variant in which the objective of each player is to lose all of his pieces
 1. [Cleanio](https://getcleanio.com/) - Laundry and dry cleaning on demand
 1. [CodersTV](http://coderstv.com) - Watch programming videos or broadcast your coder skills with the world
-
-
 1. [Illustreets](http://illustreets.co.uk/) – England’s best places to live
 1. [Liquid](https://getliquid.io/) - Collect, share, and analyze data
 1. [MathFights](http://mathfights.com/) – Test Your Math Skills In Real-Time Battles
