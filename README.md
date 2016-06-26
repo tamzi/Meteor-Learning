@@ -136,7 +136,6 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 # Community
 
 1. [Meteor Forum](https://forums.meteor.com/)
-1. [IRC Channel on freenode](http://meteor.com/irc)
 1. [Meteor on Twitter](https://twitter.com/meteorjs)
 1. [Learn Meteor Properly - Facebook Group](https://www.facebook.com/groups/1498505377066142/)
 1. [Meteor.js Club](https://meteorjs.club) - A growing community of Meteor fans
@@ -188,10 +187,9 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [Diving into Meteor.JS](https://www.youtube.com/playlist?list=PLWOwgptSFZ6SyW3D4KsuAbDrTWWz0Hqa2)
 1. [Evented Mind](https://www.eventedmind.com/feed?view=all)
 1. [How to Debug a Meteor.js Application](https://www.youtube.com/watch?v=KLtkRQ44LYw)
-1. [Lunch and Hack](https://www.youtube.com/playlist?list=PLT6qiYgD0zz2JWuMkbsOiuvM2plDn536r)
 1. [Meteor - Chat Room Tutorial](http://vimeo.com/40300075)
 1. [Meteor 101](https://www.youtube.com/playlist?list=PLrpWosQQQmVZo0wLCszylpbMa_YOU8e_B)
-1. [Meteor Learning](https://www.youtube.com/playlist?list=PLKfAG4yMwKkRT4SVt_j04AnZSKcdYPFgx) or [here](https://www.youtube.com/user/geomck1967/videos)
+1. [Meteor basics](https://www.youtube.com/user/geomck1967/videos)
 1. [Meteor's site Screencast](https://www.meteor.com/screencast)
 1. [Meteor Club Apprentice Series](https://www.youtube.com/playlist?list=PLtujUkEY1Jlq6mVFq3wBTntLzW3EKi9lS)
 
@@ -217,7 +215,6 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. Creating a Blog with Meteor.js - [part 1](https://www.youtube.com/watch?v=xTlX8sf-RJE)
 1. [Radically faster web development -- Meteor after one year](https://www.youtube.com/watch?v=NnMqMAYmTuo)
 1. [meteor.js by Roger Zurawicki](https://www.youtube.com/watch?v=5URzpBPQ864)
-1. [SFJS #23: Functional Programming and Meteor.js](https://www.youtube.com/watch?v=HAcN3JyQoyY)
 1. [TakeOff 2013 - Meteor.JS - Geoff Schmidt](https://www.youtube.com/watch?v=4mtLCjhxKAs)
 1. [Meteor for Mobile](https://www.youtube.com/watch?v=4dJLPLWMImw)
 1. [Talks given by Josh Owens about Meteor.js](https://www.youtube.com/playlist?list=PLtujUkEY1JlpoTvEvSnjXytR3G-43rBbi)
