@@ -82,7 +82,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 
 # Books
 
-1. [Learn Meteor](https://www.learn-meteor.in/)
+1. [Learn Meteor](http://www.learn-meteor.in/)
 1. [Building Single-page Web Apps with Meteor](https://www.packtpub.com/web-development/building-single-page-web-apps-meteor)
 1. [Discover Meteor](http://www.discovermeteor.com/)
 1. [Getting Started with Meteor.js JavaScript Framework](http://www.packtpub.com/getting-started-with-meteor-javascript-framework/book)
