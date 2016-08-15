@@ -96,6 +96,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [Pro Meteor: Meteor Internals, Scaling & More](https://meteorhacks.com/ebook/pro-meteor.html?utm_source=devfreebooks&utm_medium=medium&utm_campaign=DevFreeBooks)
 1. [The Meteor Testing Manual](http://www.meteortesting.com/)
 1. [Your First Meteor Application](http://meteortips.com/)
+1. [Learn Meteor - Be ready for coding away next week using Meteor](https://leanpub.com/learnmeteor)
 
 ## Books in Other Languages
 
