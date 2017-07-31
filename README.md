@@ -81,6 +81,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 5. [Live Chat App Using Meteor and the DDP Protocol](http://julian.io/live-chat-app-using-meteor-and-the-ddp-protocol/)
 6. [Get Started with Meteor by Building a Chat App](https://www.codementor.io/meteor/tutorial/getting-started-with-meteor-build-sample-app)
 7. [Meteor 1.3 With ReactJS](https://www.codementor.io/meteor/tutorial/meteor-13-with-reactjs)
+8. [Meteor 1.5 and React Loadable](https://blog.meteor.com/meteor-1-5-react-loadable-f029a320e59c)
 
 # Books
 
