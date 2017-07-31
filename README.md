@@ -243,6 +243,5 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [Meteor Resources: Learning and Everyday](http://trevorgeise.svbtle.com/meteor-resources-learning-and-everyday)
 1. [Laika - testing framework for Meteor](http://arunoda.github.io/laika/)
 1. [RTD - The Meteor Test Runner](http://xolvio.github.io/rtd/)
-1. [Kadira : Meteor Performance Monitoring Service](https://kadira.io/)
 1. [Blog posts by Josh Owens](http://joshowens.me)
 1. [The Meteor Chef](https://themeteorchef.com/)
