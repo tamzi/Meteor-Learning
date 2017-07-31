@@ -28,7 +28,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 
 # Articles & Tutorials
 
-1. [The official Meteor guide (1.4)](http://guide.meteor.com/)
+1. [The official Meteor guide (1.5)](http://guide.meteor.com/)
 1. [Meteor.js - The Perfect Match For Lean Startups](http://www.manuel-schoebel.com/blog/meteorjs-the-perfect-match-for-lean-startups)
 1. [Why web beginners should start with Meteor](https://www.meteor.com/blog/2013/12/13/why-web-beginners-should-start-with-meteor)
 1. [Learn Meteor Fundamentals and Best Practices](http://andrewscala.com/meteor/)
