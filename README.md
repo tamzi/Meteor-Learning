@@ -133,6 +133,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [Presenteract](https://github.com/zeroasterisk/Presenteract) - MeteorJS Application to create and run interactive presentations
 1. [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Complete Open Source Chat Solution
 1. [Classcraft](http://www.classcraft.com/de/) - Turn Class into an Adventure
+1. [KeplerJs](http://keplerjs.io/) - a Geosocial Network Platform
 
 
 
@@ -176,7 +177,6 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 
 1. [Crater.io - Meteor News](http://crater.io/)
 1. [Meteor Weekly](http://meteorhacks.com/meteor-weekly/)
-1. [MeteorHacks](http://meteorhacks.com/)
 
 # Podcasts
 
