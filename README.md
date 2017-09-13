@@ -177,7 +177,6 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 
 1. [Crater.io - Meteor News](http://crater.io/)
 1. [Meteor Weekly](http://meteorhacks.com/meteor-weekly/)
-1. [MeteorHacks](http://meteorhacks.com/)
 
 # Podcasts
 
