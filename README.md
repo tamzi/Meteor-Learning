@@ -108,6 +108,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 
 # Built with Meteor
 
+
 1. [Made With](https://builtwithmeteor.com) - a list of applications built with meteor
 1. [antichess](https://github.com/bojan88/antichess) - a chess variant in which the objective of each player is to lose all of his pieces
 1. [Cleanio](https://getcleanio.com/) - Laundry and dry cleaning on demand
@@ -245,3 +246,5 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [RTD - The Meteor Test Runner](http://xolvio.github.io/rtd/)
 1. [Blog posts by Josh Owens](http://joshowens.me)
 1. [The Meteor Chef](https://themeteorchef.com/)
+1. [Meteor Toys Development Tools](https://meteor.toys/)
+1. [Meteor Candy Admin Tool](https://meteorcandy.com)
