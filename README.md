@@ -100,6 +100,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [The Meteor Testing Manual](http://www.meteortesting.com/)
 1. [Your First Meteor Application](http://meteortips.com/)
 1. [Learn Meteor - Be ready for coding away next week using Meteor](https://leanpub.com/learnmeteor)
+1. [Building Applications with Meteor](https://www.packtpub.com/web-development/build-applications-meteor)
 
 ## Books in Other Languages
 
